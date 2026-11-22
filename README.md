@@ -1,4 +1,4 @@
-# Contrast Cycle
+# Contrast
 
 Free 8-week functional bodybuilding program as an installable web app: tempo supersets, conditioning
 with a built-in workout timer, a movement library of ~940 demo videos grouped by muscle, swap options
