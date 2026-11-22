@@ -40,7 +40,13 @@
   --bar:#00274A; --bar-ink:#FAFFFD; --chip-on:#53CF93; --chip-on-ink:#00274A;
   --plate:#FA1475; --ok:#53CF93; --ok-ink:#00274A; color-scheme:dark}
 
-html{-webkit-text-size-adjust:100%}
+html{-webkit-text-size-adjust:100%;overscroll-behavior-y:none}
+body{overscroll-behavior-y:none;-webkit-tap-highlight-color:transparent}
+button,.chip,.dayc,.prog,.continue,.tick,.restbtn,.wtbtn,.altbtn{-webkit-user-select:none;user-select:none;touch-action:manipulation}
+button:active,.chip:active,.dayc:active,.prog:active{transform:scale(.98)}
+#view.enter{animation:viewIn .18s ease-out}
+@keyframes viewIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion: reduce){#view.enter{animation:none}button:active,.chip:active,.dayc:active,.prog:active{transform:none}}
 body{background:var(--bg);color:var(--ink);font:15px/1.5 var(--body);
   padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 120px}
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bar)}
@@ -271,15 +277,28 @@ function setHeader(crumb, title, back){
   $('#crumb').textContent = crumb; $('#ttlText').textContent = title; $('#backBtn').hidden = !back;
 }
 
+/* app-like navigation: remember scroll per screen, restore it on Back, animate new screens */
+const navStack = [], scrollMem = {};
+let curHash = location.hash || '#home';
+window.addEventListener('scroll', () => { scrollMem[curHash] = window.scrollY; }, {passive: true});
 async function route(){
   flushSave();
   const r = parseHash();
-  window.scrollTo(0,0);
-  if (r.view === 'home') return renderHome();
-  if (r.view === 'library') return renderLibrary();
-  const p = await load(r.prog);
-  if (r.view === 'prog') return renderProg(r.prog, p, r.week || +(lsGet('wk-' + r.prog) || 1));
-  return renderDay(r.prog, p, r.week, r.day);
+  const h = location.hash || '#home';
+  if (curHash !== h) scrollMem[curHash] = window.scrollY;   // leaving a screen: remember where we were
+  const back = navStack.length > 1 && navStack[navStack.length - 2] === h;
+  if (back) navStack.pop(); else if (navStack[navStack.length - 1] !== h) navStack.push(h);
+  const keep = scrollMem[h] || 0;
+  curHash = h;
+  if (r.view === 'home') renderHome();
+  else if (r.view === 'library') await renderLibrary();
+  else {
+    const p = await load(r.prog);
+    if (r.view === 'prog') renderProg(r.prog, p, r.week || +(lsGet('wk-' + r.prog) || 1));
+    else renderDay(r.prog, p, r.week, r.day);
+  }
+  const v = $('#view'); v.classList.remove('enter'); void v.offsetWidth; v.classList.add('enter');
+  window.scrollTo(0, back ? keep : 0);
 }
 
 /* ---------- logging helpers ---------- */
