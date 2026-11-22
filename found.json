@@ -12,7 +12,7 @@
  "intro": [
   "Foundation Cycle: an 8-week base-building cycle. Four training days, one optional easy day. Push / pull / legs plus a posterior-chain day, so every muscle group gets one focused session a week and enough recovery.",
   "Progression is double progression: week 1 do 3 sets of 10 on the main pair, week 2 3 x 12 with the same load, week 3 add a set (4 x 10) and a little load, week 4 4 x 12. Weeks 5-8 repeat that pattern with new exercises.",
-  "Each day: a main superset (A1/A2) that follows the progression, then a tri-set (B) with fixed reps for pump and control, then a conditioning piece that gets one round or a few minutes longer each week.",
+  "Each day: a main superset (A1/A2) that follows the progression, then a second superset with fixed reps (a tri-set on Legs and Posterior-chain days), then a conditioning piece that gets one round or a few minutes longer each week. Push and Pull days end with a short core finisher.",
   "Tempo: 4 digits. 1st = lowering (seconds), 2nd = pause at the bottom, 3rd = lifting (X = explode), 4th = pause at the top. Example 3010.",
   "Load: pick weights where the last 2 reps of every set are hard but clean. If you hit the top of the reps on all sets with good tempo, add a small amount next time.",
   "Week 9: deload (half the sets, no conditioning), then move on to the Contrast Cycle or the Power Cycle."
@@ -126,22 +126,6 @@
        ]
       },
       {
-       "label": "Core Finisher",
-       "sub": "D) 2 Sets",
-       "items": [
-        {
-         "text": "30sec/side Side Plank",
-         "name": "Side Plank",
-         "vid": "_R389Jk0tIo"
-        },
-        {
-         "text": "10/side Bird Dog (2sec hold)",
-         "name": "Bird Dog",
-         "vid": "vzU5xrs1gMQ"
-        }
-       ]
-      },
-      {
        "label": "Coaching Tip",
        "sub": "",
        "items": [
@@ -202,7 +186,7 @@
        ]
       },
       {
-       "label": "Tri-Set",
+       "label": "Superset 2",
        "sub": "Pump + control - 3 sets, rest 45sec",
        "items": [
         {
@@ -222,15 +206,6 @@
          "rest": "45sec",
          "sets": "3",
          "vid": "n_r-ROwHkdA"
-        },
-        {
-         "code": "B3",
-         "name": "Bench Dips",
-         "tempo": "2010",
-         "reps": "12-15",
-         "rest": "45sec",
-         "sets": "3",
-         "vid": "XXvuYGCxpkk"
         }
        ]
       },
@@ -252,6 +227,27 @@
          "text": "3rd - 30sec Hollow Rocks",
          "name": "Hollow Rocks",
          "vid": "6Qdh8qzxFY8"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "20sec Hollow Hold",
+         "name": "Hollow Hold",
+         "vid": "4xRpGgttca8"
+        },
+        {
+         "text": "8/side Bird Dog (2sec hold)",
+         "name": "Bird Dog",
+         "vid": "vzU5xrs1gMQ"
+        },
+        {
+         "text": "30sec/side Side Plank",
+         "name": "Side Plank",
+         "vid": "_R389Jk0tIo"
         }
        ]
       }
@@ -357,7 +353,7 @@
        ]
       },
       {
-       "label": "Tri-Set",
+       "label": "Superset 2",
        "sub": "Pump + control - 3 sets, rest 45sec",
        "items": [
         {
@@ -377,15 +373,6 @@
          "rest": "45sec",
          "sets": "3",
          "vid": "hf7jnF45N_I"
-        },
-        {
-         "code": "B3",
-         "name": "Zottman Curls",
-         "tempo": "3010",
-         "reps": "10-12",
-         "rest": "45sec",
-         "sets": "3",
-         "vid": "wrjEdVZrkhk"
         }
        ]
       },
@@ -407,6 +394,22 @@
          "text": "30m Farmers Carry",
          "name": "Farmers Carry",
          "vid": "kaQWccrfY40"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "10 Hollow Rocks",
+         "name": "Hollow Rocks",
+         "vid": "6Qdh8qzxFY8"
+        },
+        {
+         "text": "30sec/side Side Plank",
+         "name": "Side Plank",
+         "vid": "_R389Jk0tIo"
         }
        ]
       },
@@ -634,22 +637,6 @@
          "vid": "lUSmIRNqt9w"
         }
        ]
-      },
-      {
-       "label": "Core Finisher",
-       "sub": "D) 2 Sets",
-       "items": [
-        {
-         "text": "30sec/side Side Plank",
-         "name": "Side Plank",
-         "vid": "_R389Jk0tIo"
-        },
-        {
-         "text": "10/side Bird Dog (2sec hold)",
-         "name": "Bird Dog",
-         "vid": "vzU5xrs1gMQ"
-        }
-       ]
       }
      ]
     },
@@ -703,7 +690,7 @@
        ]
       },
       {
-       "label": "Tri-Set",
+       "label": "Superset 2",
        "sub": "Pump + control - 3 sets, rest 45sec",
        "items": [
         {
@@ -723,15 +710,6 @@
          "rest": "45sec",
          "sets": "3",
          "vid": "n_r-ROwHkdA"
-        },
-        {
-         "code": "B3",
-         "name": "Bench Dips",
-         "tempo": "2010",
-         "reps": "12-15",
-         "rest": "45sec",
-         "sets": "3",
-         "vid": "XXvuYGCxpkk"
         }
        ]
       },
@@ -753,6 +731,27 @@
          "text": "3rd - 30sec Hollow Rocks",
          "name": "Hollow Rocks",
          "vid": "6Qdh8qzxFY8"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "20sec Hollow Hold",
+         "name": "Hollow Hold",
+         "vid": "4xRpGgttca8"
+        },
+        {
+         "text": "8/side Bird Dog (2sec hold)",
+         "name": "Bird Dog",
+         "vid": "vzU5xrs1gMQ"
+        },
+        {
+         "text": "30sec/side Side Plank",
+         "name": "Side Plank",
+         "vid": "_R389Jk0tIo"
         }
        ]
       }
@@ -858,7 +857,7 @@
        ]
       },
       {
-       "label": "Tri-Set",
+       "label": "Superset 2",
        "sub": "Pump + control - 3 sets, rest 45sec",
        "items": [
         {
@@ -878,15 +877,6 @@
          "rest": "45sec",
          "sets": "3",
          "vid": "hf7jnF45N_I"
-        },
-        {
-         "code": "B3",
-         "name": "Zottman Curls",
-         "tempo": "3010",
-         "reps": "10-12",
-         "rest": "45sec",
-         "sets": "3",
-         "vid": "wrjEdVZrkhk"
         }
        ]
       },
@@ -908,6 +898,22 @@
          "text": "30m Farmers Carry",
          "name": "Farmers Carry",
          "vid": "kaQWccrfY40"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "10 Hollow Rocks",
+         "name": "Hollow Rocks",
+         "vid": "6Qdh8qzxFY8"
+        },
+        {
+         "text": "30sec/side Side Plank",
+         "name": "Side Plank",
+         "vid": "_R389Jk0tIo"
         }
        ]
       }
@@ -1126,22 +1132,6 @@
          "vid": "lUSmIRNqt9w"
         }
        ]
-      },
-      {
-       "label": "Core Finisher",
-       "sub": "D) 2 Sets",
-       "items": [
-        {
-         "text": "30sec/side Side Plank",
-         "name": "Side Plank",
-         "vid": "_R389Jk0tIo"
-        },
-        {
-         "text": "10/side Bird Dog (2sec hold)",
-         "name": "Bird Dog",
-         "vid": "vzU5xrs1gMQ"
-        }
-       ]
       }
      ]
     },
@@ -1195,7 +1185,7 @@
        ]
       },
       {
-       "label": "Tri-Set",
+       "label": "Superset 2",
        "sub": "Pump + control - 3 sets, rest 45sec",
        "items": [
         {
@@ -1215,15 +1205,6 @@
          "rest": "45sec",
          "sets": "3",
          "vid": "n_r-ROwHkdA"
-        },
-        {
-         "code": "B3",
-         "name": "Bench Dips",
-         "tempo": "2010",
-         "reps": "12-15",
-         "rest": "45sec",
-         "sets": "3",
-         "vid": "XXvuYGCxpkk"
         }
        ]
       },
@@ -1245,6 +1226,27 @@
          "text": "3rd - 30sec Hollow Rocks",
          "name": "Hollow Rocks",
          "vid": "6Qdh8qzxFY8"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "20sec Hollow Hold",
+         "name": "Hollow Hold",
+         "vid": "4xRpGgttca8"
+        },
+        {
+         "text": "8/side Bird Dog (2sec hold)",
+         "name": "Bird Dog",
+         "vid": "vzU5xrs1gMQ"
+        },
+        {
+         "text": "30sec/side Side Plank",
+         "name": "Side Plank",
+         "vid": "_R389Jk0tIo"
         }
        ]
       }
@@ -1350,7 +1352,7 @@
        ]
       },
       {
-       "label": "Tri-Set",
+       "label": "Superset 2",
        "sub": "Pump + control - 3 sets, rest 45sec",
        "items": [
         {
@@ -1370,15 +1372,6 @@
          "rest": "45sec",
          "sets": "3",
          "vid": "hf7jnF45N_I"
-        },
-        {
-         "code": "B3",
-         "name": "Zottman Curls",
-         "tempo": "3010",
-         "reps": "10-12",
-         "rest": "45sec",
-         "sets": "3",
-         "vid": "wrjEdVZrkhk"
         }
        ]
       },
@@ -1400,6 +1393,22 @@
          "text": "30m Farmers Carry",
          "name": "Farmers Carry",
          "vid": "kaQWccrfY40"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "10 Hollow Rocks",
+         "name": "Hollow Rocks",
+         "vid": "6Qdh8qzxFY8"
+        },
+        {
+         "text": "30sec/side Side Plank",
+         "name": "Side Plank",
+         "vid": "_R389Jk0tIo"
         }
        ]
       }
@@ -1618,22 +1627,6 @@
          "vid": "lUSmIRNqt9w"
         }
        ]
-      },
-      {
-       "label": "Core Finisher",
-       "sub": "D) 2 Sets",
-       "items": [
-        {
-         "text": "30sec/side Side Plank",
-         "name": "Side Plank",
-         "vid": "_R389Jk0tIo"
-        },
-        {
-         "text": "10/side Bird Dog (2sec hold)",
-         "name": "Bird Dog",
-         "vid": "vzU5xrs1gMQ"
-        }
-       ]
       }
      ]
     },
@@ -1687,7 +1680,7 @@
        ]
       },
       {
-       "label": "Tri-Set",
+       "label": "Superset 2",
        "sub": "Pump + control - 3 sets, rest 45sec",
        "items": [
         {
@@ -1707,15 +1700,6 @@
          "rest": "45sec",
          "sets": "3",
          "vid": "n_r-ROwHkdA"
-        },
-        {
-         "code": "B3",
-         "name": "Bench Dips",
-         "tempo": "2010",
-         "reps": "12-15",
-         "rest": "45sec",
-         "sets": "3",
-         "vid": "XXvuYGCxpkk"
         }
        ]
       },
@@ -1737,6 +1721,27 @@
          "text": "3rd - 30sec Hollow Rocks",
          "name": "Hollow Rocks",
          "vid": "6Qdh8qzxFY8"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "20sec Hollow Hold",
+         "name": "Hollow Hold",
+         "vid": "4xRpGgttca8"
+        },
+        {
+         "text": "8/side Bird Dog (2sec hold)",
+         "name": "Bird Dog",
+         "vid": "vzU5xrs1gMQ"
+        },
+        {
+         "text": "30sec/side Side Plank",
+         "name": "Side Plank",
+         "vid": "_R389Jk0tIo"
         }
        ]
       }
@@ -1842,7 +1847,7 @@
        ]
       },
       {
-       "label": "Tri-Set",
+       "label": "Superset 2",
        "sub": "Pump + control - 3 sets, rest 45sec",
        "items": [
         {
@@ -1862,15 +1867,6 @@
          "rest": "45sec",
          "sets": "3",
          "vid": "hf7jnF45N_I"
-        },
-        {
-         "code": "B3",
-         "name": "Zottman Curls",
-         "tempo": "3010",
-         "reps": "10-12",
-         "rest": "45sec",
-         "sets": "3",
-         "vid": "wrjEdVZrkhk"
         }
        ]
       },
@@ -1892,6 +1888,22 @@
          "text": "30m Farmers Carry",
          "name": "Farmers Carry",
          "vid": "kaQWccrfY40"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "10 Hollow Rocks",
+         "name": "Hollow Rocks",
+         "vid": "6Qdh8qzxFY8"
+        },
+        {
+         "text": "30sec/side Side Plank",
+         "name": "Side Plank",
+         "vid": "_R389Jk0tIo"
         }
        ]
       }
@@ -2108,22 +2120,6 @@
        ]
       },
       {
-       "label": "Core Finisher",
-       "sub": "D) 2 Sets",
-       "items": [
-        {
-         "text": "20 Bicycle Crunch",
-         "name": "Bicycle Crunch",
-         "vid": "_vWNnODwF5w"
-        },
-        {
-         "text": "30sec RKC Plank",
-         "name": "RKC Plank",
-         "vid": "64SmhiH0Xxg"
-        }
-       ]
-      },
-      {
        "label": "Coaching Tip",
        "sub": "",
        "items": [
@@ -2184,7 +2180,7 @@
        ]
       },
       {
-       "label": "Tri-Set",
+       "label": "Superset 2",
        "sub": "Pump + control - 3 sets, rest 45sec",
        "items": [
         {
@@ -2204,15 +2200,6 @@
          "rest": "45sec",
          "sets": "3",
          "vid": "xagEKj2yDc8"
-        },
-        {
-         "code": "B3",
-         "name": "Tall Kneeling KB Crush Grip Overhead Tricep Extensions",
-         "tempo": "3010",
-         "reps": "12-15",
-         "rest": "45sec",
-         "sets": "3",
-         "vid": "FDcuwRBmoP8"
         }
        ]
       },
@@ -2234,6 +2221,22 @@
          "text": "10 Kettlebell Push Press (5/arm)",
          "name": "Kettlebell Push Press",
          "vid": "cK4fCJY2yvM"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "20 Bicycle Crunch",
+         "name": "Bicycle Crunch",
+         "vid": "_vWNnODwF5w"
+        },
+        {
+         "text": "30sec RKC Plank",
+         "name": "RKC Plank",
+         "vid": "64SmhiH0Xxg"
         }
        ]
       }
@@ -2339,7 +2342,7 @@
        ]
       },
       {
-       "label": "Tri-Set",
+       "label": "Superset 2",
        "sub": "Pump + control - 3 sets, rest 45sec",
        "items": [
         {
@@ -2359,15 +2362,6 @@
          "rest": "45sec",
          "sets": "3",
          "vid": "5jgKj8ColLg"
-        },
-        {
-         "code": "B3",
-         "name": "KB Hammer Grip Bicep Curls",
-         "tempo": "3010",
-         "reps": "10-12",
-         "rest": "45sec",
-         "sets": "3",
-         "vid": "QxVpZfj5iTI"
         }
        ]
       },
@@ -2389,6 +2383,22 @@
          "text": "30 Double Unders (or 60 Single Unders)",
          "name": "Double Unders",
          "vid": "3SN4_WAVwL8"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "8 Candlestick Roll Up",
+         "name": "Candlestick Roll Up",
+         "vid": "wn19n6CHc8Q"
+        },
+        {
+         "text": "30sec Extended Plank",
+         "name": "Extended Plank",
+         "vid": "fMoFdVEIcY8"
         }
        ]
       }
@@ -2604,22 +2614,6 @@
          "vid": "VUVeH9hpDRk"
         }
        ]
-      },
-      {
-       "label": "Core Finisher",
-       "sub": "D) 2 Sets",
-       "items": [
-        {
-         "text": "20 Bicycle Crunch",
-         "name": "Bicycle Crunch",
-         "vid": "_vWNnODwF5w"
-        },
-        {
-         "text": "30sec RKC Plank",
-         "name": "RKC Plank",
-         "vid": "64SmhiH0Xxg"
-        }
-       ]
       }
      ]
     },
@@ -2673,7 +2667,7 @@
        ]
       },
       {
-       "label": "Tri-Set",
+       "label": "Superset 2",
        "sub": "Pump + control - 3 sets, rest 45sec",
        "items": [
         {
@@ -2693,15 +2687,6 @@
          "rest": "45sec",
          "sets": "3",
          "vid": "xagEKj2yDc8"
-        },
-        {
-         "code": "B3",
-         "name": "Tall Kneeling KB Crush Grip Overhead Tricep Extensions",
-         "tempo": "3010",
-         "reps": "12-15",
-         "rest": "45sec",
-         "sets": "3",
-         "vid": "FDcuwRBmoP8"
         }
        ]
       },
@@ -2723,6 +2708,22 @@
          "text": "10 Kettlebell Push Press (5/arm)",
          "name": "Kettlebell Push Press",
          "vid": "cK4fCJY2yvM"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "20 Bicycle Crunch",
+         "name": "Bicycle Crunch",
+         "vid": "_vWNnODwF5w"
+        },
+        {
+         "text": "30sec RKC Plank",
+         "name": "RKC Plank",
+         "vid": "64SmhiH0Xxg"
         }
        ]
       }
@@ -2828,7 +2829,7 @@
        ]
       },
       {
-       "label": "Tri-Set",
+       "label": "Superset 2",
        "sub": "Pump + control - 3 sets, rest 45sec",
        "items": [
         {
@@ -2848,15 +2849,6 @@
          "rest": "45sec",
          "sets": "3",
          "vid": "5jgKj8ColLg"
-        },
-        {
-         "code": "B3",
-         "name": "KB Hammer Grip Bicep Curls",
-         "tempo": "3010",
-         "reps": "10-12",
-         "rest": "45sec",
-         "sets": "3",
-         "vid": "QxVpZfj5iTI"
         }
        ]
       },
@@ -2878,6 +2870,22 @@
          "text": "30 Double Unders (or 60 Single Unders)",
          "name": "Double Unders",
          "vid": "3SN4_WAVwL8"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "8 Candlestick Roll Up",
+         "name": "Candlestick Roll Up",
+         "vid": "wn19n6CHc8Q"
+        },
+        {
+         "text": "30sec Extended Plank",
+         "name": "Extended Plank",
+         "vid": "fMoFdVEIcY8"
         }
        ]
       }
@@ -3093,22 +3101,6 @@
          "vid": "VUVeH9hpDRk"
         }
        ]
-      },
-      {
-       "label": "Core Finisher",
-       "sub": "D) 2 Sets",
-       "items": [
-        {
-         "text": "20 Bicycle Crunch",
-         "name": "Bicycle Crunch",
-         "vid": "_vWNnODwF5w"
-        },
-        {
-         "text": "30sec RKC Plank",
-         "name": "RKC Plank",
-         "vid": "64SmhiH0Xxg"
-        }
-       ]
       }
      ]
     },
@@ -3162,7 +3154,7 @@
        ]
       },
       {
-       "label": "Tri-Set",
+       "label": "Superset 2",
        "sub": "Pump + control - 3 sets, rest 45sec",
        "items": [
         {
@@ -3182,15 +3174,6 @@
          "rest": "45sec",
          "sets": "3",
          "vid": "xagEKj2yDc8"
-        },
-        {
-         "code": "B3",
-         "name": "Tall Kneeling KB Crush Grip Overhead Tricep Extensions",
-         "tempo": "3010",
-         "reps": "12-15",
-         "rest": "45sec",
-         "sets": "3",
-         "vid": "FDcuwRBmoP8"
         }
        ]
       },
@@ -3212,6 +3195,22 @@
          "text": "10 Kettlebell Push Press (5/arm)",
          "name": "Kettlebell Push Press",
          "vid": "cK4fCJY2yvM"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "20 Bicycle Crunch",
+         "name": "Bicycle Crunch",
+         "vid": "_vWNnODwF5w"
+        },
+        {
+         "text": "30sec RKC Plank",
+         "name": "RKC Plank",
+         "vid": "64SmhiH0Xxg"
         }
        ]
       }
@@ -3317,7 +3316,7 @@
        ]
       },
       {
-       "label": "Tri-Set",
+       "label": "Superset 2",
        "sub": "Pump + control - 3 sets, rest 45sec",
        "items": [
         {
@@ -3337,15 +3336,6 @@
          "rest": "45sec",
          "sets": "3",
          "vid": "5jgKj8ColLg"
-        },
-        {
-         "code": "B3",
-         "name": "KB Hammer Grip Bicep Curls",
-         "tempo": "3010",
-         "reps": "10-12",
-         "rest": "45sec",
-         "sets": "3",
-         "vid": "QxVpZfj5iTI"
         }
        ]
       },
@@ -3367,6 +3357,22 @@
          "text": "30 Double Unders (or 60 Single Unders)",
          "name": "Double Unders",
          "vid": "3SN4_WAVwL8"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "8 Candlestick Roll Up",
+         "name": "Candlestick Roll Up",
+         "vid": "wn19n6CHc8Q"
+        },
+        {
+         "text": "30sec Extended Plank",
+         "name": "Extended Plank",
+         "vid": "fMoFdVEIcY8"
         }
        ]
       }
@@ -3582,22 +3588,6 @@
          "vid": "VUVeH9hpDRk"
         }
        ]
-      },
-      {
-       "label": "Core Finisher",
-       "sub": "D) 2 Sets",
-       "items": [
-        {
-         "text": "20 Bicycle Crunch",
-         "name": "Bicycle Crunch",
-         "vid": "_vWNnODwF5w"
-        },
-        {
-         "text": "30sec RKC Plank",
-         "name": "RKC Plank",
-         "vid": "64SmhiH0Xxg"
-        }
-       ]
       }
      ]
     },
@@ -3651,7 +3641,7 @@
        ]
       },
       {
-       "label": "Tri-Set",
+       "label": "Superset 2",
        "sub": "Pump + control - 3 sets, rest 45sec",
        "items": [
         {
@@ -3671,15 +3661,6 @@
          "rest": "45sec",
          "sets": "3",
          "vid": "xagEKj2yDc8"
-        },
-        {
-         "code": "B3",
-         "name": "Tall Kneeling KB Crush Grip Overhead Tricep Extensions",
-         "tempo": "3010",
-         "reps": "12-15",
-         "rest": "45sec",
-         "sets": "3",
-         "vid": "FDcuwRBmoP8"
         }
        ]
       },
@@ -3701,6 +3682,22 @@
          "text": "10 Kettlebell Push Press (5/arm)",
          "name": "Kettlebell Push Press",
          "vid": "cK4fCJY2yvM"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "20 Bicycle Crunch",
+         "name": "Bicycle Crunch",
+         "vid": "_vWNnODwF5w"
+        },
+        {
+         "text": "30sec RKC Plank",
+         "name": "RKC Plank",
+         "vid": "64SmhiH0Xxg"
         }
        ]
       }
@@ -3806,7 +3803,7 @@
        ]
       },
       {
-       "label": "Tri-Set",
+       "label": "Superset 2",
        "sub": "Pump + control - 3 sets, rest 45sec",
        "items": [
         {
@@ -3826,15 +3823,6 @@
          "rest": "45sec",
          "sets": "3",
          "vid": "5jgKj8ColLg"
-        },
-        {
-         "code": "B3",
-         "name": "KB Hammer Grip Bicep Curls",
-         "tempo": "3010",
-         "reps": "10-12",
-         "rest": "45sec",
-         "sets": "3",
-         "vid": "QxVpZfj5iTI"
         }
        ]
       },
@@ -3856,6 +3844,22 @@
          "text": "30 Double Unders (or 60 Single Unders)",
          "name": "Double Unders",
          "vid": "3SN4_WAVwL8"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "8 Candlestick Roll Up",
+         "name": "Candlestick Roll Up",
+         "vid": "wn19n6CHc8Q"
+        },
+        {
+         "text": "30sec Extended Plank",
+         "name": "Extended Plank",
+         "vid": "fMoFdVEIcY8"
         }
        ]
       }
