@@ -1,0 +1,3437 @@
+{
+ "id": "power",
+ "title": "Power Cycle",
+ "schedule": [
+  "Mon - Day 1 - Lower squat power",
+  "Tue - Day 2 - Upper press power",
+  "Wed - Optional Zone 2 aerobic",
+  "Thu - Day 3 - Lower hinge power",
+  "Fri - Day 4 - Upper pull + gymnastics",
+  "Sat / Sun - Rest"
+ ],
+ "intro": [
+  "Power Cycle: an 8-week strength and power cycle for when you want to get heavier and faster. Four training days plus an optional Zone 2 day.",
+  "Each day opens with a contrast pair: a heavy lift (A1) followed by a fast, light explosive move (A2) that uses the same pattern. The heavy set wakes up the nervous system, the jump or throw teaches you to use it.",
+  "A1 runs in waves: week 1 sets of 5, week 2 sets of 4, week 3 sets of 3 (heaviest), week 4 a lighter week of 5s at about 70%. Weeks 5-7 repeat the wave with new lifts, week 8 you build to a heavy triple.",
+  "After the contrast pair: a hypertrophy superset (B) at 8-10 reps, then short, sharp conditioning: sprints, EMOMs, gymnastics. Rest fully between heavy sets: 2 minutes is the minimum.",
+  "Tempo: 4 digits. 1st = lowering (seconds), 2nd = pause at the bottom, 3rd = lifting (X = explode), 4th = pause at the top.",
+  "Best after the Foundation or Contrast Cycle. Week 9: deload."
+ ],
+ "weeks": [
+  {
+   "week": 1,
+   "note": "Week 1: sets of 5 on A1. Start conservative: the wave gets heavier for two weeks.",
+   "days": [
+    {
+     "day": 1,
+     "title": "Lower - Squat Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Cyclist Air Squat",
+         "name": "Cyclist Air Squat",
+         "vid": "7GBBdCDWpn4"
+        },
+        {
+         "text": "5 Broad Jump",
+         "name": "Broad Jump",
+         "vid": "vPQv1gmrfUo"
+        },
+        {
+         "text": "8 90 90 Goblet Good Morning",
+         "name": "90 90 Goblet Good Morning",
+         "vid": "6XO5yEWiums"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 4 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Back Squat",
+         "tempo": "30X1",
+         "reps": "5",
+         "rest": "2min",
+         "sets": "4",
+         "vid": "Rvy12jFLBFo"
+        },
+        {
+         "code": "A2",
+         "name": "Tuck Jump",
+         "tempo": "X",
+         "reps": "5",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "jgPfJjRf9Ck",
+         "note": "Right after A1. Max height, soft landing."
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Kettlebell Front Rack Reverse Walking Lunges",
+         "tempo": "2010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "xKa9ufNmfR8"
+        },
+        {
+         "code": "B2",
+         "name": "Single Leg Foot Elevated Glute Bridge",
+         "tempo": "2011",
+         "reps": "10/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "q4tbcohWf4k"
+        }
+       ]
+      },
+      {
+       "label": "Sprint Power",
+       "sub": "C) Every 90sec x 6",
+       "items": [
+        {
+         "text": "8sec Assault Bike all-out",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "3 Burpee Broad Jump",
+         "name": "Burpee Broad Jump",
+         "vid": "q7FF-rVgSa0"
+        }
+       ]
+      },
+      {
+       "label": "Coaching Tip",
+       "sub": "",
+       "items": [
+        {
+         "text": "Contrast pair: do A1, then go straight into A2 within 20 seconds, then rest the full 2 minutes."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Upper - Press Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Scapular Push Ups on Elbows",
+         "name": "Scapular Push Ups on Elbows",
+         "vid": "uN4ojImyJZw"
+        },
+        {
+         "text": "10 Dumbbell Halo",
+         "name": "Dumbbell Halo",
+         "vid": "61F3dwJFv_U"
+        },
+        {
+         "text": "5 Clapping Push Ups (or fast push-ups)",
+         "name": "Clapping Push Ups",
+         "vid": "Z9psWZT0WuQ"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 4 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Push Press",
+         "tempo": "20X1",
+         "reps": "5",
+         "rest": "2min",
+         "sets": "4",
+         "vid": "AJY1Zot99tQ"
+        },
+        {
+         "code": "A2",
+         "name": "Clapping Push Ups",
+         "tempo": "X",
+         "reps": "5",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "Z9psWZT0WuQ"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Alternating Dumbbell Bench Press (Bottom Up)",
+         "tempo": "2010",
+         "reps": "8-10/arm",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "DhFCFx8_WOw"
+        },
+        {
+         "code": "B2",
+         "name": "Strict Bar Dip",
+         "tempo": "2010",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "LXkp2QJ5ASo"
+        }
+       ]
+      },
+      {
+       "label": "Gymnastics Strength",
+       "sub": "C) 4 Rounds - not for time",
+       "items": [
+        {
+         "text": "5 Strict Handstand Push Up (scale: Pike Strict HSPU)",
+         "name": "Strict Handstand Push Up",
+         "vid": "ic8cg0SQ8A4"
+        },
+        {
+         "text": "10 Ring Push Up",
+         "name": "Ring Push Up",
+         "vid": "K_ZNhLw2yb4"
+        },
+        {
+         "text": "20sec L Sit on Parallettes",
+         "name": "L Sit on Parallettes",
+         "vid": "lLu9U0G7Ogw"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": "flow",
+     "title": "Optional - Zone 2 Aerobic",
+     "blocks": [
+      {
+       "label": "Note",
+       "sub": "",
+       "items": [
+        {
+         "text": "Zone 2: a pace where you can still talk in full sentences. It builds the engine that lets you recover between heavy sets."
+        }
+       ]
+      },
+      {
+       "label": "Zone 2 Aerobic",
+       "sub": "30min total - easy, steady",
+       "items": [
+        {
+         "text": "Split it as you like: Rowing, Assault Bike, easy run",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "Every 10min: 5 Turkish Get Up (light, alternate sides)",
+         "name": "Turkish Get Up",
+         "vid": "LkqIu3YpRNo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Lower - Hinge Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Glute Bridges",
+         "name": "Glute Bridges",
+         "vid": "wMEoGwkk650"
+        },
+        {
+         "text": "8 Good Morning (empty bar)",
+         "name": "Good Morning",
+         "vid": "F8dCjzbed-4"
+        },
+        {
+         "text": "5 Dual Hike Kettlebell Clean",
+         "name": "Dual Hike Kettlebell Clean",
+         "vid": "9NUaxWCbSgg"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 4 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Barbell Deadlifts",
+         "tempo": "21X1",
+         "reps": "5",
+         "rest": "2min",
+         "sets": "4",
+         "vid": "1QIvuYWqo6w"
+        },
+        {
+         "code": "A2",
+         "name": "Broad Jump",
+         "tempo": "X",
+         "reps": "3",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "vPQv1gmrfUo"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Good Morning",
+         "tempo": "3011",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "F8dCjzbed-4"
+        },
+        {
+         "code": "B2",
+         "name": "Kettlebell Rack Deficit Split Squat",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "HwjYysoDXYo"
+        }
+       ]
+      },
+      {
+       "label": "Power EMOM",
+       "sub": "C) EMOM x 12",
+       "items": [
+        {
+         "text": "1st - 5 Hang Power Clean (moderate load, fast)",
+         "name": "Hang Power Clean",
+         "vid": "PxYb-nbJk0o"
+        },
+        {
+         "text": "2nd - 10 Dual Russian Kettlebell Swings",
+         "name": "Dual Russian Kettlebell Swings",
+         "vid": "fOPqk1FA4HU"
+        },
+        {
+         "text": "3rd - 12/10 Cal Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        }
+       ]
+      },
+      {
+       "label": "Coaching Tip",
+       "sub": "",
+       "items": [
+        {
+         "text": "Deadlift waves: stop each set with 1 rep in reserve. A grinding rep is a technique rep lost."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Upper - Pull + Gymnastics",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Scap Pull Up",
+         "name": "Scap Pull Up",
+         "vid": "pE8PJsWEV7k"
+        },
+        {
+         "text": "10 Ring Row",
+         "name": "Ring Row",
+         "vid": "EN6ubEkzMC0"
+        },
+        {
+         "text": "20sec Active Bar Hang",
+         "name": "Active Bar Hang",
+         "vid": "mbJLjLAsV_w"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 4 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Strict Wtd Pull Up",
+         "tempo": "30X1",
+         "reps": "5",
+         "rest": "2min",
+         "sets": "4",
+         "vid": "chJcUHfhlHc",
+         "note": "Week 4: bodyweight only."
+        },
+        {
+         "code": "A2",
+         "name": "Kettlebell Ballistic Row",
+         "tempo": "X",
+         "reps": "5/arm",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "ey7YgyPONOk"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Pendlay Row",
+         "tempo": "20X1",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "ezrZnmjZTR4"
+        },
+        {
+         "code": "B2",
+         "name": "Incline Bench Dumbbell Bicep Curl",
+         "tempo": "3010",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "wSA84j9ZG4c"
+        }
+       ]
+      },
+      {
+       "label": "Gymnastics Conditioning",
+       "sub": "C) 4 Rounds For Time",
+       "items": [
+        {
+         "text": "2 Rope Climb (scale: 4 L Sit Strict Pull Ups)",
+         "name": "Rope Climb",
+         "vid": "-I2m2v26W0Y"
+        },
+        {
+         "text": "3 Bar Muscle Ups (scale: Strict Chest to Bar Pull Up)",
+         "name": "Bar Muscle Ups",
+         "vid": "DrwOyG0eqtk"
+        },
+        {
+         "text": "10 Toes to Bar",
+         "name": "Toes to Bar",
+         "vid": "7HZukFecYrM"
+        },
+        {
+         "text": "15/12 Cal Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "note": "Week 2: sets of 4, add load to A1.",
+   "days": [
+    {
+     "day": 1,
+     "title": "Lower - Squat Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Cyclist Air Squat",
+         "name": "Cyclist Air Squat",
+         "vid": "7GBBdCDWpn4"
+        },
+        {
+         "text": "5 Broad Jump",
+         "name": "Broad Jump",
+         "vid": "vPQv1gmrfUo"
+        },
+        {
+         "text": "8 90 90 Goblet Good Morning",
+         "name": "90 90 Goblet Good Morning",
+         "vid": "6XO5yEWiums"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 4 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Back Squat",
+         "tempo": "30X1",
+         "reps": "4",
+         "rest": "2min",
+         "sets": "4",
+         "vid": "Rvy12jFLBFo"
+        },
+        {
+         "code": "A2",
+         "name": "Tuck Jump",
+         "tempo": "X",
+         "reps": "5",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "jgPfJjRf9Ck",
+         "note": "Right after A1. Max height, soft landing."
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Kettlebell Front Rack Reverse Walking Lunges",
+         "tempo": "2010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "xKa9ufNmfR8"
+        },
+        {
+         "code": "B2",
+         "name": "Single Leg Foot Elevated Glute Bridge",
+         "tempo": "2011",
+         "reps": "10/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "q4tbcohWf4k"
+        }
+       ]
+      },
+      {
+       "label": "Sprint Power",
+       "sub": "C) Every 90sec x 7",
+       "items": [
+        {
+         "text": "8sec Assault Bike all-out",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "3 Burpee Broad Jump",
+         "name": "Burpee Broad Jump",
+         "vid": "q7FF-rVgSa0"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Upper - Press Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Scapular Push Ups on Elbows",
+         "name": "Scapular Push Ups on Elbows",
+         "vid": "uN4ojImyJZw"
+        },
+        {
+         "text": "10 Dumbbell Halo",
+         "name": "Dumbbell Halo",
+         "vid": "61F3dwJFv_U"
+        },
+        {
+         "text": "5 Clapping Push Ups (or fast push-ups)",
+         "name": "Clapping Push Ups",
+         "vid": "Z9psWZT0WuQ"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 4 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Push Press",
+         "tempo": "20X1",
+         "reps": "4",
+         "rest": "2min",
+         "sets": "4",
+         "vid": "AJY1Zot99tQ"
+        },
+        {
+         "code": "A2",
+         "name": "Clapping Push Ups",
+         "tempo": "X",
+         "reps": "5",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "Z9psWZT0WuQ"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Alternating Dumbbell Bench Press (Bottom Up)",
+         "tempo": "2010",
+         "reps": "8-10/arm",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "DhFCFx8_WOw"
+        },
+        {
+         "code": "B2",
+         "name": "Strict Bar Dip",
+         "tempo": "2010",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "LXkp2QJ5ASo"
+        }
+       ]
+      },
+      {
+       "label": "Gymnastics Strength",
+       "sub": "C) 4 Rounds - not for time",
+       "items": [
+        {
+         "text": "5 Strict Handstand Push Up (scale: Pike Strict HSPU)",
+         "name": "Strict Handstand Push Up",
+         "vid": "ic8cg0SQ8A4"
+        },
+        {
+         "text": "10 Ring Push Up",
+         "name": "Ring Push Up",
+         "vid": "K_ZNhLw2yb4"
+        },
+        {
+         "text": "20sec L Sit on Parallettes",
+         "name": "L Sit on Parallettes",
+         "vid": "lLu9U0G7Ogw"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": "flow",
+     "title": "Optional - Zone 2 Aerobic",
+     "blocks": [
+      {
+       "label": "Note",
+       "sub": "",
+       "items": [
+        {
+         "text": "Zone 2: a pace where you can still talk in full sentences. It builds the engine that lets you recover between heavy sets."
+        }
+       ]
+      },
+      {
+       "label": "Zone 2 Aerobic",
+       "sub": "30min total - easy, steady",
+       "items": [
+        {
+         "text": "Split it as you like: Rowing, Assault Bike, easy run",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "Every 10min: 5 Turkish Get Up (light, alternate sides)",
+         "name": "Turkish Get Up",
+         "vid": "LkqIu3YpRNo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Lower - Hinge Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Glute Bridges",
+         "name": "Glute Bridges",
+         "vid": "wMEoGwkk650"
+        },
+        {
+         "text": "8 Good Morning (empty bar)",
+         "name": "Good Morning",
+         "vid": "F8dCjzbed-4"
+        },
+        {
+         "text": "5 Dual Hike Kettlebell Clean",
+         "name": "Dual Hike Kettlebell Clean",
+         "vid": "9NUaxWCbSgg"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 4 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Barbell Deadlifts",
+         "tempo": "21X1",
+         "reps": "4",
+         "rest": "2min",
+         "sets": "4",
+         "vid": "1QIvuYWqo6w"
+        },
+        {
+         "code": "A2",
+         "name": "Broad Jump",
+         "tempo": "X",
+         "reps": "3",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "vPQv1gmrfUo"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Good Morning",
+         "tempo": "3011",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "F8dCjzbed-4"
+        },
+        {
+         "code": "B2",
+         "name": "Kettlebell Rack Deficit Split Squat",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "HwjYysoDXYo"
+        }
+       ]
+      },
+      {
+       "label": "Power EMOM",
+       "sub": "C) EMOM x 12",
+       "items": [
+        {
+         "text": "1st - 5 Hang Power Clean (moderate load, fast)",
+         "name": "Hang Power Clean",
+         "vid": "PxYb-nbJk0o"
+        },
+        {
+         "text": "2nd - 10 Dual Russian Kettlebell Swings",
+         "name": "Dual Russian Kettlebell Swings",
+         "vid": "fOPqk1FA4HU"
+        },
+        {
+         "text": "3rd - 12/10 Cal Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Upper - Pull + Gymnastics",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Scap Pull Up",
+         "name": "Scap Pull Up",
+         "vid": "pE8PJsWEV7k"
+        },
+        {
+         "text": "10 Ring Row",
+         "name": "Ring Row",
+         "vid": "EN6ubEkzMC0"
+        },
+        {
+         "text": "20sec Active Bar Hang",
+         "name": "Active Bar Hang",
+         "vid": "mbJLjLAsV_w"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 4 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Strict Wtd Pull Up",
+         "tempo": "30X1",
+         "reps": "4",
+         "rest": "2min",
+         "sets": "4",
+         "vid": "chJcUHfhlHc",
+         "note": "Week 4: bodyweight only."
+        },
+        {
+         "code": "A2",
+         "name": "Kettlebell Ballistic Row",
+         "tempo": "X",
+         "reps": "5/arm",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "ey7YgyPONOk"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Pendlay Row",
+         "tempo": "20X1",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "ezrZnmjZTR4"
+        },
+        {
+         "code": "B2",
+         "name": "Incline Bench Dumbbell Bicep Curl",
+         "tempo": "3010",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "wSA84j9ZG4c"
+        }
+       ]
+      },
+      {
+       "label": "Gymnastics Conditioning",
+       "sub": "C) 4 Rounds For Time",
+       "items": [
+        {
+         "text": "2 Rope Climb (scale: 4 L Sit Strict Pull Ups)",
+         "name": "Rope Climb",
+         "vid": "-I2m2v26W0Y"
+        },
+        {
+         "text": "3 Bar Muscle Ups (scale: Strict Chest to Bar Pull Up)",
+         "name": "Bar Muscle Ups",
+         "vid": "DrwOyG0eqtk"
+        },
+        {
+         "text": "10 Toes to Bar",
+         "name": "Toes to Bar",
+         "vid": "7HZukFecYrM"
+        },
+        {
+         "text": "15/12 Cal Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "note": "Week 3: 5 sets of 3: the heaviest week of block 1. Full rest between sets.",
+   "days": [
+    {
+     "day": 1,
+     "title": "Lower - Squat Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Cyclist Air Squat",
+         "name": "Cyclist Air Squat",
+         "vid": "7GBBdCDWpn4"
+        },
+        {
+         "text": "5 Broad Jump",
+         "name": "Broad Jump",
+         "vid": "vPQv1gmrfUo"
+        },
+        {
+         "text": "8 90 90 Goblet Good Morning",
+         "name": "90 90 Goblet Good Morning",
+         "vid": "6XO5yEWiums"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 5 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Back Squat",
+         "tempo": "30X1",
+         "reps": "3",
+         "rest": "2min",
+         "sets": "5",
+         "vid": "Rvy12jFLBFo"
+        },
+        {
+         "code": "A2",
+         "name": "Tuck Jump",
+         "tempo": "X",
+         "reps": "5",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "jgPfJjRf9Ck",
+         "note": "Right after A1. Max height, soft landing."
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Kettlebell Front Rack Reverse Walking Lunges",
+         "tempo": "2010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "xKa9ufNmfR8"
+        },
+        {
+         "code": "B2",
+         "name": "Single Leg Foot Elevated Glute Bridge",
+         "tempo": "2011",
+         "reps": "10/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "q4tbcohWf4k"
+        }
+       ]
+      },
+      {
+       "label": "Sprint Power",
+       "sub": "C) Every 90sec x 8",
+       "items": [
+        {
+         "text": "8sec Assault Bike all-out",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "3 Burpee Broad Jump",
+         "name": "Burpee Broad Jump",
+         "vid": "q7FF-rVgSa0"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Upper - Press Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Scapular Push Ups on Elbows",
+         "name": "Scapular Push Ups on Elbows",
+         "vid": "uN4ojImyJZw"
+        },
+        {
+         "text": "10 Dumbbell Halo",
+         "name": "Dumbbell Halo",
+         "vid": "61F3dwJFv_U"
+        },
+        {
+         "text": "5 Clapping Push Ups (or fast push-ups)",
+         "name": "Clapping Push Ups",
+         "vid": "Z9psWZT0WuQ"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 5 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Push Press",
+         "tempo": "20X1",
+         "reps": "3",
+         "rest": "2min",
+         "sets": "5",
+         "vid": "AJY1Zot99tQ"
+        },
+        {
+         "code": "A2",
+         "name": "Clapping Push Ups",
+         "tempo": "X",
+         "reps": "5",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "Z9psWZT0WuQ"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Alternating Dumbbell Bench Press (Bottom Up)",
+         "tempo": "2010",
+         "reps": "8-10/arm",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "DhFCFx8_WOw"
+        },
+        {
+         "code": "B2",
+         "name": "Strict Bar Dip",
+         "tempo": "2010",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "LXkp2QJ5ASo"
+        }
+       ]
+      },
+      {
+       "label": "Gymnastics Strength",
+       "sub": "C) 5 Rounds - not for time",
+       "items": [
+        {
+         "text": "5 Strict Handstand Push Up (scale: Pike Strict HSPU)",
+         "name": "Strict Handstand Push Up",
+         "vid": "ic8cg0SQ8A4"
+        },
+        {
+         "text": "10 Ring Push Up",
+         "name": "Ring Push Up",
+         "vid": "K_ZNhLw2yb4"
+        },
+        {
+         "text": "20sec L Sit on Parallettes",
+         "name": "L Sit on Parallettes",
+         "vid": "lLu9U0G7Ogw"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": "flow",
+     "title": "Optional - Zone 2 Aerobic",
+     "blocks": [
+      {
+       "label": "Note",
+       "sub": "",
+       "items": [
+        {
+         "text": "Zone 2: a pace where you can still talk in full sentences. It builds the engine that lets you recover between heavy sets."
+        }
+       ]
+      },
+      {
+       "label": "Zone 2 Aerobic",
+       "sub": "35min total - easy, steady",
+       "items": [
+        {
+         "text": "Split it as you like: Rowing, Assault Bike, easy run",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "Every 10min: 5 Turkish Get Up (light, alternate sides)",
+         "name": "Turkish Get Up",
+         "vid": "LkqIu3YpRNo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Lower - Hinge Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Glute Bridges",
+         "name": "Glute Bridges",
+         "vid": "wMEoGwkk650"
+        },
+        {
+         "text": "8 Good Morning (empty bar)",
+         "name": "Good Morning",
+         "vid": "F8dCjzbed-4"
+        },
+        {
+         "text": "5 Dual Hike Kettlebell Clean",
+         "name": "Dual Hike Kettlebell Clean",
+         "vid": "9NUaxWCbSgg"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 5 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Barbell Deadlifts",
+         "tempo": "21X1",
+         "reps": "3",
+         "rest": "2min",
+         "sets": "5",
+         "vid": "1QIvuYWqo6w"
+        },
+        {
+         "code": "A2",
+         "name": "Broad Jump",
+         "tempo": "X",
+         "reps": "3",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "vPQv1gmrfUo"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Good Morning",
+         "tempo": "3011",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "F8dCjzbed-4"
+        },
+        {
+         "code": "B2",
+         "name": "Kettlebell Rack Deficit Split Squat",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "HwjYysoDXYo"
+        }
+       ]
+      },
+      {
+       "label": "Power EMOM",
+       "sub": "C) EMOM x 15",
+       "items": [
+        {
+         "text": "1st - 5 Hang Power Clean (moderate load, fast)",
+         "name": "Hang Power Clean",
+         "vid": "PxYb-nbJk0o"
+        },
+        {
+         "text": "2nd - 10 Dual Russian Kettlebell Swings",
+         "name": "Dual Russian Kettlebell Swings",
+         "vid": "fOPqk1FA4HU"
+        },
+        {
+         "text": "3rd - 12/10 Cal Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Upper - Pull + Gymnastics",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Scap Pull Up",
+         "name": "Scap Pull Up",
+         "vid": "pE8PJsWEV7k"
+        },
+        {
+         "text": "10 Ring Row",
+         "name": "Ring Row",
+         "vid": "EN6ubEkzMC0"
+        },
+        {
+         "text": "20sec Active Bar Hang",
+         "name": "Active Bar Hang",
+         "vid": "mbJLjLAsV_w"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 5 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Strict Wtd Pull Up",
+         "tempo": "30X1",
+         "reps": "3",
+         "rest": "2min",
+         "sets": "5",
+         "vid": "chJcUHfhlHc",
+         "note": "Week 4: bodyweight only."
+        },
+        {
+         "code": "A2",
+         "name": "Kettlebell Ballistic Row",
+         "tempo": "X",
+         "reps": "5/arm",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "ey7YgyPONOk"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Pendlay Row",
+         "tempo": "20X1",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "ezrZnmjZTR4"
+        },
+        {
+         "code": "B2",
+         "name": "Incline Bench Dumbbell Bicep Curl",
+         "tempo": "3010",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "wSA84j9ZG4c"
+        }
+       ]
+      },
+      {
+       "label": "Gymnastics Conditioning",
+       "sub": "C) 5 Rounds For Time",
+       "items": [
+        {
+         "text": "2 Rope Climb (scale: 4 L Sit Strict Pull Ups)",
+         "name": "Rope Climb",
+         "vid": "-I2m2v26W0Y"
+        },
+        {
+         "text": "3 Bar Muscle Ups (scale: Strict Chest to Bar Pull Up)",
+         "name": "Bar Muscle Ups",
+         "vid": "DrwOyG0eqtk"
+        },
+        {
+         "text": "10 Toes to Bar",
+         "name": "Toes to Bar",
+         "vid": "7HZukFecYrM"
+        },
+        {
+         "text": "15/12 Cal Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "note": "Week 4: lighter week. A1 at about 70% for 5s, fewer sets everywhere, conditioning shorter.",
+   "days": [
+    {
+     "day": 1,
+     "title": "Lower - Squat Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Cyclist Air Squat",
+         "name": "Cyclist Air Squat",
+         "vid": "7GBBdCDWpn4"
+        },
+        {
+         "text": "5 Broad Jump",
+         "name": "Broad Jump",
+         "vid": "vPQv1gmrfUo"
+        },
+        {
+         "text": "8 90 90 Goblet Good Morning",
+         "name": "90 90 Goblet Good Morning",
+         "vid": "6XO5yEWiums"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 3 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Back Squat",
+         "tempo": "30X1",
+         "reps": "5 (light, ~70%)",
+         "rest": "2min",
+         "sets": "3",
+         "vid": "Rvy12jFLBFo"
+        },
+        {
+         "code": "A2",
+         "name": "Tuck Jump",
+         "tempo": "X",
+         "reps": "5",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "jgPfJjRf9Ck",
+         "note": "Right after A1. Max height, soft landing."
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "2 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Kettlebell Front Rack Reverse Walking Lunges",
+         "tempo": "2010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "xKa9ufNmfR8"
+        },
+        {
+         "code": "B2",
+         "name": "Single Leg Foot Elevated Glute Bridge",
+         "tempo": "2011",
+         "reps": "10/leg",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "q4tbcohWf4k"
+        }
+       ]
+      },
+      {
+       "label": "Sprint Power",
+       "sub": "C) Every 90sec x 4",
+       "items": [
+        {
+         "text": "8sec Assault Bike all-out",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "3 Burpee Broad Jump",
+         "name": "Burpee Broad Jump",
+         "vid": "q7FF-rVgSa0"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Upper - Press Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Scapular Push Ups on Elbows",
+         "name": "Scapular Push Ups on Elbows",
+         "vid": "uN4ojImyJZw"
+        },
+        {
+         "text": "10 Dumbbell Halo",
+         "name": "Dumbbell Halo",
+         "vid": "61F3dwJFv_U"
+        },
+        {
+         "text": "5 Clapping Push Ups (or fast push-ups)",
+         "name": "Clapping Push Ups",
+         "vid": "Z9psWZT0WuQ"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 3 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Push Press",
+         "tempo": "20X1",
+         "reps": "5 (light, ~70%)",
+         "rest": "2min",
+         "sets": "3",
+         "vid": "AJY1Zot99tQ"
+        },
+        {
+         "code": "A2",
+         "name": "Clapping Push Ups",
+         "tempo": "X",
+         "reps": "5",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "Z9psWZT0WuQ"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "2 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Alternating Dumbbell Bench Press (Bottom Up)",
+         "tempo": "2010",
+         "reps": "8-10/arm",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "DhFCFx8_WOw"
+        },
+        {
+         "code": "B2",
+         "name": "Strict Bar Dip",
+         "tempo": "2010",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "LXkp2QJ5ASo"
+        }
+       ]
+      },
+      {
+       "label": "Gymnastics Strength",
+       "sub": "C) 3 Rounds - not for time",
+       "items": [
+        {
+         "text": "5 Strict Handstand Push Up (scale: Pike Strict HSPU)",
+         "name": "Strict Handstand Push Up",
+         "vid": "ic8cg0SQ8A4"
+        },
+        {
+         "text": "10 Ring Push Up",
+         "name": "Ring Push Up",
+         "vid": "K_ZNhLw2yb4"
+        },
+        {
+         "text": "20sec L Sit on Parallettes",
+         "name": "L Sit on Parallettes",
+         "vid": "lLu9U0G7Ogw"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": "flow",
+     "title": "Optional - Zone 2 Aerobic",
+     "blocks": [
+      {
+       "label": "Note",
+       "sub": "",
+       "items": [
+        {
+         "text": "Zone 2: a pace where you can still talk in full sentences. It builds the engine that lets you recover between heavy sets."
+        }
+       ]
+      },
+      {
+       "label": "Zone 2 Aerobic",
+       "sub": "25min total - easy, steady",
+       "items": [
+        {
+         "text": "Split it as you like: Rowing, Assault Bike, easy run",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "Every 10min: 5 Turkish Get Up (light, alternate sides)",
+         "name": "Turkish Get Up",
+         "vid": "LkqIu3YpRNo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Lower - Hinge Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Glute Bridges",
+         "name": "Glute Bridges",
+         "vid": "wMEoGwkk650"
+        },
+        {
+         "text": "8 Good Morning (empty bar)",
+         "name": "Good Morning",
+         "vid": "F8dCjzbed-4"
+        },
+        {
+         "text": "5 Dual Hike Kettlebell Clean",
+         "name": "Dual Hike Kettlebell Clean",
+         "vid": "9NUaxWCbSgg"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 3 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Barbell Deadlifts",
+         "tempo": "21X1",
+         "reps": "5 (light, ~70%)",
+         "rest": "2min",
+         "sets": "3",
+         "vid": "1QIvuYWqo6w"
+        },
+        {
+         "code": "A2",
+         "name": "Broad Jump",
+         "tempo": "X",
+         "reps": "3",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "vPQv1gmrfUo"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "2 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Good Morning",
+         "tempo": "3011",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "F8dCjzbed-4"
+        },
+        {
+         "code": "B2",
+         "name": "Kettlebell Rack Deficit Split Squat",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "HwjYysoDXYo"
+        }
+       ]
+      },
+      {
+       "label": "Power EMOM",
+       "sub": "C) EMOM x 9",
+       "items": [
+        {
+         "text": "1st - 5 Hang Power Clean (moderate load, fast)",
+         "name": "Hang Power Clean",
+         "vid": "PxYb-nbJk0o"
+        },
+        {
+         "text": "2nd - 10 Dual Russian Kettlebell Swings",
+         "name": "Dual Russian Kettlebell Swings",
+         "vid": "fOPqk1FA4HU"
+        },
+        {
+         "text": "3rd - 12/10 Cal Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Upper - Pull + Gymnastics",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Scap Pull Up",
+         "name": "Scap Pull Up",
+         "vid": "pE8PJsWEV7k"
+        },
+        {
+         "text": "10 Ring Row",
+         "name": "Ring Row",
+         "vid": "EN6ubEkzMC0"
+        },
+        {
+         "text": "20sec Active Bar Hang",
+         "name": "Active Bar Hang",
+         "vid": "mbJLjLAsV_w"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 3 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Strict Wtd Pull Up",
+         "tempo": "30X1",
+         "reps": "5 (light, ~70%)",
+         "rest": "2min",
+         "sets": "3",
+         "vid": "chJcUHfhlHc",
+         "note": "Week 4: bodyweight only."
+        },
+        {
+         "code": "A2",
+         "name": "Kettlebell Ballistic Row",
+         "tempo": "X",
+         "reps": "5/arm",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "ey7YgyPONOk"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "2 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Pendlay Row",
+         "tempo": "20X1",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "ezrZnmjZTR4"
+        },
+        {
+         "code": "B2",
+         "name": "Incline Bench Dumbbell Bicep Curl",
+         "tempo": "3010",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "wSA84j9ZG4c"
+        }
+       ]
+      },
+      {
+       "label": "Gymnastics Conditioning",
+       "sub": "C) 3 Rounds For Time",
+       "items": [
+        {
+         "text": "2 Rope Climb (scale: 4 L Sit Strict Pull Ups)",
+         "name": "Rope Climb",
+         "vid": "-I2m2v26W0Y"
+        },
+        {
+         "text": "3 Bar Muscle Ups (scale: Strict Chest to Bar Pull Up)",
+         "name": "Bar Muscle Ups",
+         "vid": "DrwOyG0eqtk"
+        },
+        {
+         "text": "10 Toes to Bar",
+         "name": "Toes to Bar",
+         "vid": "7HZukFecYrM"
+        },
+        {
+         "text": "15/12 Cal Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "note": "Block 2, week 5: new lifts. Sets of 5, find your loads.",
+   "days": [
+    {
+     "day": 1,
+     "title": "Lower - Squat Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Cyclist Air Squat",
+         "name": "Cyclist Air Squat",
+         "vid": "7GBBdCDWpn4"
+        },
+        {
+         "text": "6 Jump Squats",
+         "name": "Jump Squats",
+         "vid": "flBodwEKe30"
+        },
+        {
+         "text": "8/leg Cobra Lunges",
+         "name": "Cobra Lunges",
+         "vid": "Sqpr9fqilso"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 4 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Cyclist Front Squat",
+         "tempo": "30X1",
+         "reps": "5",
+         "rest": "2min",
+         "sets": "4",
+         "vid": "wND9m_rhcQ8"
+        },
+        {
+         "code": "A2",
+         "name": "Box Jump Overs",
+         "tempo": "X",
+         "reps": "4",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "f6AR27I-DwU",
+         "note": "Step down, reset, jump again."
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Dual KB Overhead Reverse Lunge",
+         "tempo": "2010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "F4VTLTaLIgg"
+        },
+        {
+         "code": "B2",
+         "name": "Banded Sissy Squats",
+         "tempo": "3010",
+         "reps": "12-15",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "bfmQ2JzzVsI"
+        }
+       ]
+      },
+      {
+       "label": "Sprint Power",
+       "sub": "C) Every 2min x 6",
+       "items": [
+        {
+         "text": "10sec Rowing all-out",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "5 Skater Jumps/side",
+         "name": "Skater Jumps",
+         "vid": "CaN4zfIPyXU"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Upper - Press Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Yoga Push Up",
+         "name": "Yoga Push Up",
+         "vid": "_AOxb-7uwEE"
+        },
+        {
+         "text": "10 Ring Face Pull",
+         "name": "Ring Face Pull",
+         "vid": "Im6_BP120ow"
+        },
+        {
+         "text": "5 Depth Push Ups",
+         "name": "Depth Push Ups",
+         "vid": "F-aqEJOiKVg"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 4 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Barbell Z Press",
+         "tempo": "20X1",
+         "reps": "5",
+         "rest": "2min",
+         "sets": "4",
+         "vid": "wF0Och9eq28"
+        },
+        {
+         "code": "A2",
+         "name": "Depth Push Ups",
+         "tempo": "X",
+         "reps": "5",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "F-aqEJOiKVg"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Incline Dumbbell Bench Press",
+         "tempo": "3010",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "wCrNcBhdfbE"
+        },
+        {
+         "code": "B2",
+         "name": "Ring Dips",
+         "tempo": "2010",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "eiQLGHW-tmQ"
+        }
+       ]
+      },
+      {
+       "label": "Gymnastics Strength",
+       "sub": "C) 4 Rounds - not for time",
+       "items": [
+        {
+         "text": "3 Wall Walk",
+         "name": "Wall Walk",
+         "vid": "JsGNOjxsu9A"
+        },
+        {
+         "text": "6 Strict Handstand Push Up",
+         "name": "Strict Handstand Push Up",
+         "vid": "ic8cg0SQ8A4"
+        },
+        {
+         "text": "30sec Ring Plank",
+         "name": "Ring Plank",
+         "vid": "p3zS2AMqGlg"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": "flow",
+     "title": "Optional - Zone 2 Aerobic",
+     "blocks": [
+      {
+       "label": "Note",
+       "sub": "",
+       "items": [
+        {
+         "text": "Zone 2: a pace where you can still talk in full sentences. It builds the engine that lets you recover between heavy sets."
+        }
+       ]
+      },
+      {
+       "label": "Zone 2 Aerobic",
+       "sub": "30min total - easy, steady",
+       "items": [
+        {
+         "text": "Split it as you like: Rowing, Assault Bike, easy run",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "Every 10min: 5 Turkish Get Up (light, alternate sides)",
+         "name": "Turkish Get Up",
+         "vid": "LkqIu3YpRNo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Lower - Hinge Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10/side Bridge Psoas March",
+         "name": "Bridge Psoas March",
+         "vid": "uN1ecndDsCk"
+        },
+        {
+         "text": "5 Kettlebell Clean From Floor/arm",
+         "name": "Kettlebell Clean From Floor",
+         "vid": "roDYEs8qfKQ"
+        },
+        {
+         "text": "3 Broad Jump",
+         "name": "Broad Jump",
+         "vid": "vPQv1gmrfUo"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 4 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Clean Pull Off Block",
+         "tempo": "11X1",
+         "reps": "5",
+         "rest": "2min",
+         "sets": "4",
+         "vid": "8F1XuBAJ-qE",
+         "note": "Pull from blocks or plates at knee height. Finish tall on your toes."
+        },
+        {
+         "code": "A2",
+         "name": "Hike Kettlebell Snatch",
+         "tempo": "X",
+         "reps": "3/arm",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "63d8GMBIUyY"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Barbell Hip Thrust",
+         "tempo": "2012",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "hg9MMvd-MY8"
+        },
+        {
+         "code": "B2",
+         "name": "Split Stance Crossbody KB RDL",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "YFG7J4TZsl0"
+        }
+       ]
+      },
+      {
+       "label": "Power EMOM",
+       "sub": "C) EMOM x 12",
+       "items": [
+        {
+         "text": "1st - 4 Power Clean",
+         "name": "Power Clean",
+         "vid": "2F2UV6dVTr4"
+        },
+        {
+         "text": "2nd - 10 Russian Kettlebell Swing",
+         "name": "Russian Kettlebell Swing",
+         "vid": "KkYOW3jDhoM"
+        },
+        {
+         "text": "3rd - 30sec Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        }
+       ]
+      },
+      {
+       "label": "Coaching Tip",
+       "sub": "",
+       "items": [
+        {
+         "text": "Clean pulls: think \"jump with the bar\". The bar stays close and the shrug comes last."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Upper - Pull + Gymnastics",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Scap Pull Up",
+         "name": "Scap Pull Up",
+         "vid": "pE8PJsWEV7k"
+        },
+        {
+         "text": "20sec Chin Over Bar Isometric Hold",
+         "name": "Chin Over Bar Isometric Hold",
+         "vid": "PtxPHXIcHo0"
+        },
+        {
+         "text": "12 Band Pull Aparts",
+         "name": "Band Pull Aparts",
+         "vid": "MnDpmNYUjbc"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 4 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Strict Chest to Bar Pull Up",
+         "tempo": "30X1",
+         "reps": "5",
+         "rest": "2min",
+         "sets": "4",
+         "vid": "9L51G5iXayA",
+         "note": "Add weight once you can do the reps strict."
+        },
+        {
+         "code": "A2",
+         "name": "Dual KB High Pull",
+         "tempo": "X",
+         "reps": "5",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "D98du9B2bgw"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Dumbbell Bent Over Row",
+         "tempo": "2011",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "VP_f9V854og"
+        },
+        {
+         "code": "B2",
+         "name": "Zottman Curls",
+         "tempo": "3010",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "wrjEdVZrkhk"
+        }
+       ]
+      },
+      {
+       "label": "Gymnastics Conditioning",
+       "sub": "C) 4 Rounds For Time",
+       "items": [
+        {
+         "text": "2 Rope Climb",
+         "name": "Rope Climb",
+         "vid": "-I2m2v26W0Y"
+        },
+        {
+         "text": "5 Strict Toes to Bar",
+         "name": "Strict Toes to Bar",
+         "vid": "pgBwmyI36aE"
+        },
+        {
+         "text": "10 Hand Release Push Ups",
+         "name": "Hand Release Push Ups",
+         "vid": "zPrcw-WIdZs"
+        },
+        {
+         "text": "200m run (or 12 Cal Rowing)",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "note": "Week 6: sets of 4, heavier.",
+   "days": [
+    {
+     "day": 1,
+     "title": "Lower - Squat Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Cyclist Air Squat",
+         "name": "Cyclist Air Squat",
+         "vid": "7GBBdCDWpn4"
+        },
+        {
+         "text": "6 Jump Squats",
+         "name": "Jump Squats",
+         "vid": "flBodwEKe30"
+        },
+        {
+         "text": "8/leg Cobra Lunges",
+         "name": "Cobra Lunges",
+         "vid": "Sqpr9fqilso"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 4 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Cyclist Front Squat",
+         "tempo": "30X1",
+         "reps": "4",
+         "rest": "2min",
+         "sets": "4",
+         "vid": "wND9m_rhcQ8"
+        },
+        {
+         "code": "A2",
+         "name": "Box Jump Overs",
+         "tempo": "X",
+         "reps": "4",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "f6AR27I-DwU",
+         "note": "Step down, reset, jump again."
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Dual KB Overhead Reverse Lunge",
+         "tempo": "2010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "F4VTLTaLIgg"
+        },
+        {
+         "code": "B2",
+         "name": "Banded Sissy Squats",
+         "tempo": "3010",
+         "reps": "12-15",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "bfmQ2JzzVsI"
+        }
+       ]
+      },
+      {
+       "label": "Sprint Power",
+       "sub": "C) Every 2min x 7",
+       "items": [
+        {
+         "text": "10sec Rowing all-out",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "5 Skater Jumps/side",
+         "name": "Skater Jumps",
+         "vid": "CaN4zfIPyXU"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Upper - Press Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Yoga Push Up",
+         "name": "Yoga Push Up",
+         "vid": "_AOxb-7uwEE"
+        },
+        {
+         "text": "10 Ring Face Pull",
+         "name": "Ring Face Pull",
+         "vid": "Im6_BP120ow"
+        },
+        {
+         "text": "5 Depth Push Ups",
+         "name": "Depth Push Ups",
+         "vid": "F-aqEJOiKVg"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 4 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Barbell Z Press",
+         "tempo": "20X1",
+         "reps": "4",
+         "rest": "2min",
+         "sets": "4",
+         "vid": "wF0Och9eq28"
+        },
+        {
+         "code": "A2",
+         "name": "Depth Push Ups",
+         "tempo": "X",
+         "reps": "5",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "F-aqEJOiKVg"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Incline Dumbbell Bench Press",
+         "tempo": "3010",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "wCrNcBhdfbE"
+        },
+        {
+         "code": "B2",
+         "name": "Ring Dips",
+         "tempo": "2010",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "eiQLGHW-tmQ"
+        }
+       ]
+      },
+      {
+       "label": "Gymnastics Strength",
+       "sub": "C) 4 Rounds - not for time",
+       "items": [
+        {
+         "text": "3 Wall Walk",
+         "name": "Wall Walk",
+         "vid": "JsGNOjxsu9A"
+        },
+        {
+         "text": "6 Strict Handstand Push Up",
+         "name": "Strict Handstand Push Up",
+         "vid": "ic8cg0SQ8A4"
+        },
+        {
+         "text": "30sec Ring Plank",
+         "name": "Ring Plank",
+         "vid": "p3zS2AMqGlg"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": "flow",
+     "title": "Optional - Zone 2 Aerobic",
+     "blocks": [
+      {
+       "label": "Note",
+       "sub": "",
+       "items": [
+        {
+         "text": "Zone 2: a pace where you can still talk in full sentences. It builds the engine that lets you recover between heavy sets."
+        }
+       ]
+      },
+      {
+       "label": "Zone 2 Aerobic",
+       "sub": "35min total - easy, steady",
+       "items": [
+        {
+         "text": "Split it as you like: Rowing, Assault Bike, easy run",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "Every 10min: 5 Turkish Get Up (light, alternate sides)",
+         "name": "Turkish Get Up",
+         "vid": "LkqIu3YpRNo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Lower - Hinge Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10/side Bridge Psoas March",
+         "name": "Bridge Psoas March",
+         "vid": "uN1ecndDsCk"
+        },
+        {
+         "text": "5 Kettlebell Clean From Floor/arm",
+         "name": "Kettlebell Clean From Floor",
+         "vid": "roDYEs8qfKQ"
+        },
+        {
+         "text": "3 Broad Jump",
+         "name": "Broad Jump",
+         "vid": "vPQv1gmrfUo"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 4 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Clean Pull Off Block",
+         "tempo": "11X1",
+         "reps": "4",
+         "rest": "2min",
+         "sets": "4",
+         "vid": "8F1XuBAJ-qE",
+         "note": "Pull from blocks or plates at knee height. Finish tall on your toes."
+        },
+        {
+         "code": "A2",
+         "name": "Hike Kettlebell Snatch",
+         "tempo": "X",
+         "reps": "3/arm",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "63d8GMBIUyY"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Barbell Hip Thrust",
+         "tempo": "2012",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "hg9MMvd-MY8"
+        },
+        {
+         "code": "B2",
+         "name": "Split Stance Crossbody KB RDL",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "YFG7J4TZsl0"
+        }
+       ]
+      },
+      {
+       "label": "Power EMOM",
+       "sub": "C) EMOM x 12",
+       "items": [
+        {
+         "text": "1st - 4 Power Clean",
+         "name": "Power Clean",
+         "vid": "2F2UV6dVTr4"
+        },
+        {
+         "text": "2nd - 10 Russian Kettlebell Swing",
+         "name": "Russian Kettlebell Swing",
+         "vid": "KkYOW3jDhoM"
+        },
+        {
+         "text": "3rd - 30sec Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Upper - Pull + Gymnastics",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Scap Pull Up",
+         "name": "Scap Pull Up",
+         "vid": "pE8PJsWEV7k"
+        },
+        {
+         "text": "20sec Chin Over Bar Isometric Hold",
+         "name": "Chin Over Bar Isometric Hold",
+         "vid": "PtxPHXIcHo0"
+        },
+        {
+         "text": "12 Band Pull Aparts",
+         "name": "Band Pull Aparts",
+         "vid": "MnDpmNYUjbc"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 4 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Strict Chest to Bar Pull Up",
+         "tempo": "30X1",
+         "reps": "4",
+         "rest": "2min",
+         "sets": "4",
+         "vid": "9L51G5iXayA",
+         "note": "Add weight once you can do the reps strict."
+        },
+        {
+         "code": "A2",
+         "name": "Dual KB High Pull",
+         "tempo": "X",
+         "reps": "5",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "D98du9B2bgw"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Dumbbell Bent Over Row",
+         "tempo": "2011",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "VP_f9V854og"
+        },
+        {
+         "code": "B2",
+         "name": "Zottman Curls",
+         "tempo": "3010",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "wrjEdVZrkhk"
+        }
+       ]
+      },
+      {
+       "label": "Gymnastics Conditioning",
+       "sub": "C) 4 Rounds For Time",
+       "items": [
+        {
+         "text": "2 Rope Climb",
+         "name": "Rope Climb",
+         "vid": "-I2m2v26W0Y"
+        },
+        {
+         "text": "5 Strict Toes to Bar",
+         "name": "Strict Toes to Bar",
+         "vid": "pgBwmyI36aE"
+        },
+        {
+         "text": "10 Hand Release Push Ups",
+         "name": "Hand Release Push Ups",
+         "vid": "zPrcw-WIdZs"
+        },
+        {
+         "text": "200m run (or 12 Cal Rowing)",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "note": "Week 7: 5 sets of 3, heaviest of the cycle.",
+   "days": [
+    {
+     "day": 1,
+     "title": "Lower - Squat Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Cyclist Air Squat",
+         "name": "Cyclist Air Squat",
+         "vid": "7GBBdCDWpn4"
+        },
+        {
+         "text": "6 Jump Squats",
+         "name": "Jump Squats",
+         "vid": "flBodwEKe30"
+        },
+        {
+         "text": "8/leg Cobra Lunges",
+         "name": "Cobra Lunges",
+         "vid": "Sqpr9fqilso"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 5 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Cyclist Front Squat",
+         "tempo": "30X1",
+         "reps": "3",
+         "rest": "2min",
+         "sets": "5",
+         "vid": "wND9m_rhcQ8"
+        },
+        {
+         "code": "A2",
+         "name": "Box Jump Overs",
+         "tempo": "X",
+         "reps": "4",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "f6AR27I-DwU",
+         "note": "Step down, reset, jump again."
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Dual KB Overhead Reverse Lunge",
+         "tempo": "2010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "F4VTLTaLIgg"
+        },
+        {
+         "code": "B2",
+         "name": "Banded Sissy Squats",
+         "tempo": "3010",
+         "reps": "12-15",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "bfmQ2JzzVsI"
+        }
+       ]
+      },
+      {
+       "label": "Sprint Power",
+       "sub": "C) Every 2min x 8",
+       "items": [
+        {
+         "text": "10sec Rowing all-out",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "5 Skater Jumps/side",
+         "name": "Skater Jumps",
+         "vid": "CaN4zfIPyXU"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Upper - Press Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Yoga Push Up",
+         "name": "Yoga Push Up",
+         "vid": "_AOxb-7uwEE"
+        },
+        {
+         "text": "10 Ring Face Pull",
+         "name": "Ring Face Pull",
+         "vid": "Im6_BP120ow"
+        },
+        {
+         "text": "5 Depth Push Ups",
+         "name": "Depth Push Ups",
+         "vid": "F-aqEJOiKVg"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 5 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Barbell Z Press",
+         "tempo": "20X1",
+         "reps": "3",
+         "rest": "2min",
+         "sets": "5",
+         "vid": "wF0Och9eq28"
+        },
+        {
+         "code": "A2",
+         "name": "Depth Push Ups",
+         "tempo": "X",
+         "reps": "5",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "F-aqEJOiKVg"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Incline Dumbbell Bench Press",
+         "tempo": "3010",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "wCrNcBhdfbE"
+        },
+        {
+         "code": "B2",
+         "name": "Ring Dips",
+         "tempo": "2010",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "eiQLGHW-tmQ"
+        }
+       ]
+      },
+      {
+       "label": "Gymnastics Strength",
+       "sub": "C) 5 Rounds - not for time",
+       "items": [
+        {
+         "text": "3 Wall Walk",
+         "name": "Wall Walk",
+         "vid": "JsGNOjxsu9A"
+        },
+        {
+         "text": "6 Strict Handstand Push Up",
+         "name": "Strict Handstand Push Up",
+         "vid": "ic8cg0SQ8A4"
+        },
+        {
+         "text": "30sec Ring Plank",
+         "name": "Ring Plank",
+         "vid": "p3zS2AMqGlg"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": "flow",
+     "title": "Optional - Zone 2 Aerobic",
+     "blocks": [
+      {
+       "label": "Note",
+       "sub": "",
+       "items": [
+        {
+         "text": "Zone 2: a pace where you can still talk in full sentences. It builds the engine that lets you recover between heavy sets."
+        }
+       ]
+      },
+      {
+       "label": "Zone 2 Aerobic",
+       "sub": "40min total - easy, steady",
+       "items": [
+        {
+         "text": "Split it as you like: Rowing, Assault Bike, easy run",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "Every 10min: 5 Turkish Get Up (light, alternate sides)",
+         "name": "Turkish Get Up",
+         "vid": "LkqIu3YpRNo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Lower - Hinge Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10/side Bridge Psoas March",
+         "name": "Bridge Psoas March",
+         "vid": "uN1ecndDsCk"
+        },
+        {
+         "text": "5 Kettlebell Clean From Floor/arm",
+         "name": "Kettlebell Clean From Floor",
+         "vid": "roDYEs8qfKQ"
+        },
+        {
+         "text": "3 Broad Jump",
+         "name": "Broad Jump",
+         "vid": "vPQv1gmrfUo"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 5 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Clean Pull Off Block",
+         "tempo": "11X1",
+         "reps": "3",
+         "rest": "2min",
+         "sets": "5",
+         "vid": "8F1XuBAJ-qE",
+         "note": "Pull from blocks or plates at knee height. Finish tall on your toes."
+        },
+        {
+         "code": "A2",
+         "name": "Hike Kettlebell Snatch",
+         "tempo": "X",
+         "reps": "3/arm",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "63d8GMBIUyY"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Barbell Hip Thrust",
+         "tempo": "2012",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "hg9MMvd-MY8"
+        },
+        {
+         "code": "B2",
+         "name": "Split Stance Crossbody KB RDL",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "YFG7J4TZsl0"
+        }
+       ]
+      },
+      {
+       "label": "Power EMOM",
+       "sub": "C) EMOM x 15",
+       "items": [
+        {
+         "text": "1st - 4 Power Clean",
+         "name": "Power Clean",
+         "vid": "2F2UV6dVTr4"
+        },
+        {
+         "text": "2nd - 10 Russian Kettlebell Swing",
+         "name": "Russian Kettlebell Swing",
+         "vid": "KkYOW3jDhoM"
+        },
+        {
+         "text": "3rd - 30sec Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Upper - Pull + Gymnastics",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Scap Pull Up",
+         "name": "Scap Pull Up",
+         "vid": "pE8PJsWEV7k"
+        },
+        {
+         "text": "20sec Chin Over Bar Isometric Hold",
+         "name": "Chin Over Bar Isometric Hold",
+         "vid": "PtxPHXIcHo0"
+        },
+        {
+         "text": "12 Band Pull Aparts",
+         "name": "Band Pull Aparts",
+         "vid": "MnDpmNYUjbc"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 5 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Strict Chest to Bar Pull Up",
+         "tempo": "30X1",
+         "reps": "3",
+         "rest": "2min",
+         "sets": "5",
+         "vid": "9L51G5iXayA",
+         "note": "Add weight once you can do the reps strict."
+        },
+        {
+         "code": "A2",
+         "name": "Dual KB High Pull",
+         "tempo": "X",
+         "reps": "5",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "D98du9B2bgw"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Dumbbell Bent Over Row",
+         "tempo": "2011",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "VP_f9V854og"
+        },
+        {
+         "code": "B2",
+         "name": "Zottman Curls",
+         "tempo": "3010",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "wrjEdVZrkhk"
+        }
+       ]
+      },
+      {
+       "label": "Gymnastics Conditioning",
+       "sub": "C) 5 Rounds For Time",
+       "items": [
+        {
+         "text": "2 Rope Climb",
+         "name": "Rope Climb",
+         "vid": "-I2m2v26W0Y"
+        },
+        {
+         "text": "5 Strict Toes to Bar",
+         "name": "Strict Toes to Bar",
+         "vid": "pgBwmyI36aE"
+        },
+        {
+         "text": "10 Hand Release Push Ups",
+         "name": "Hand Release Push Ups",
+         "vid": "zPrcw-WIdZs"
+        },
+        {
+         "text": "200m run (or 12 Cal Rowing)",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "note": "Week 8: build to a heavy triple on each A1, then 2 back-off sets of 5. Log your numbers, then deload.",
+   "days": [
+    {
+     "day": 1,
+     "title": "Lower - Squat Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Cyclist Air Squat",
+         "name": "Cyclist Air Squat",
+         "vid": "7GBBdCDWpn4"
+        },
+        {
+         "text": "6 Jump Squats",
+         "name": "Jump Squats",
+         "vid": "flBodwEKe30"
+        },
+        {
+         "text": "8/leg Cobra Lunges",
+         "name": "Cobra Lunges",
+         "vid": "Sqpr9fqilso"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 3 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Cyclist Front Squat",
+         "tempo": "30X1",
+         "reps": "heavy 3, then 5, 5 @ 80%",
+         "rest": "2min",
+         "sets": "3",
+         "vid": "wND9m_rhcQ8"
+        },
+        {
+         "code": "A2",
+         "name": "Box Jump Overs",
+         "tempo": "X",
+         "reps": "4",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "f6AR27I-DwU",
+         "note": "Step down, reset, jump again."
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "2 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Dual KB Overhead Reverse Lunge",
+         "tempo": "2010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "F4VTLTaLIgg"
+        },
+        {
+         "code": "B2",
+         "name": "Banded Sissy Squats",
+         "tempo": "3010",
+         "reps": "12-15",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "bfmQ2JzzVsI"
+        }
+       ]
+      },
+      {
+       "label": "Sprint Power",
+       "sub": "C) Every 2min x 4",
+       "items": [
+        {
+         "text": "10sec Rowing all-out",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "5 Skater Jumps/side",
+         "name": "Skater Jumps",
+         "vid": "CaN4zfIPyXU"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Upper - Press Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Yoga Push Up",
+         "name": "Yoga Push Up",
+         "vid": "_AOxb-7uwEE"
+        },
+        {
+         "text": "10 Ring Face Pull",
+         "name": "Ring Face Pull",
+         "vid": "Im6_BP120ow"
+        },
+        {
+         "text": "5 Depth Push Ups",
+         "name": "Depth Push Ups",
+         "vid": "F-aqEJOiKVg"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 3 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Barbell Z Press",
+         "tempo": "20X1",
+         "reps": "heavy 3, then 5, 5 @ 80%",
+         "rest": "2min",
+         "sets": "3",
+         "vid": "wF0Och9eq28"
+        },
+        {
+         "code": "A2",
+         "name": "Depth Push Ups",
+         "tempo": "X",
+         "reps": "5",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "F-aqEJOiKVg"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "2 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Incline Dumbbell Bench Press",
+         "tempo": "3010",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "wCrNcBhdfbE"
+        },
+        {
+         "code": "B2",
+         "name": "Ring Dips",
+         "tempo": "2010",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "eiQLGHW-tmQ"
+        }
+       ]
+      },
+      {
+       "label": "Gymnastics Strength",
+       "sub": "C) 3 Rounds - not for time",
+       "items": [
+        {
+         "text": "3 Wall Walk",
+         "name": "Wall Walk",
+         "vid": "JsGNOjxsu9A"
+        },
+        {
+         "text": "6 Strict Handstand Push Up",
+         "name": "Strict Handstand Push Up",
+         "vid": "ic8cg0SQ8A4"
+        },
+        {
+         "text": "30sec Ring Plank",
+         "name": "Ring Plank",
+         "vid": "p3zS2AMqGlg"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": "flow",
+     "title": "Optional - Zone 2 Aerobic",
+     "blocks": [
+      {
+       "label": "Note",
+       "sub": "",
+       "items": [
+        {
+         "text": "Zone 2: a pace where you can still talk in full sentences. It builds the engine that lets you recover between heavy sets."
+        }
+       ]
+      },
+      {
+       "label": "Zone 2 Aerobic",
+       "sub": "25min total - easy, steady",
+       "items": [
+        {
+         "text": "Split it as you like: Rowing, Assault Bike, easy run",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "Every 10min: 5 Turkish Get Up (light, alternate sides)",
+         "name": "Turkish Get Up",
+         "vid": "LkqIu3YpRNo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Lower - Hinge Power",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10/side Bridge Psoas March",
+         "name": "Bridge Psoas March",
+         "vid": "uN1ecndDsCk"
+        },
+        {
+         "text": "5 Kettlebell Clean From Floor/arm",
+         "name": "Kettlebell Clean From Floor",
+         "vid": "roDYEs8qfKQ"
+        },
+        {
+         "text": "3 Broad Jump",
+         "name": "Broad Jump",
+         "vid": "vPQv1gmrfUo"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 3 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Clean Pull Off Block",
+         "tempo": "11X1",
+         "reps": "heavy 3, then 5, 5 @ 80%",
+         "rest": "2min",
+         "sets": "3",
+         "vid": "8F1XuBAJ-qE",
+         "note": "Pull from blocks or plates at knee height. Finish tall on your toes."
+        },
+        {
+         "code": "A2",
+         "name": "Hike Kettlebell Snatch",
+         "tempo": "X",
+         "reps": "3/arm",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "63d8GMBIUyY"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "2 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Barbell Hip Thrust",
+         "tempo": "2012",
+         "reps": "8-10",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "hg9MMvd-MY8"
+        },
+        {
+         "code": "B2",
+         "name": "Split Stance Crossbody KB RDL",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "YFG7J4TZsl0"
+        }
+       ]
+      },
+      {
+       "label": "Power EMOM",
+       "sub": "C) EMOM x 9",
+       "items": [
+        {
+         "text": "1st - 4 Power Clean",
+         "name": "Power Clean",
+         "vid": "2F2UV6dVTr4"
+        },
+        {
+         "text": "2nd - 10 Russian Kettlebell Swing",
+         "name": "Russian Kettlebell Swing",
+         "vid": "KkYOW3jDhoM"
+        },
+        {
+         "text": "3rd - 30sec Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Upper - Pull + Gymnastics",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2-3 Rounds",
+       "items": [
+        {
+         "text": "10 Scap Pull Up",
+         "name": "Scap Pull Up",
+         "vid": "pE8PJsWEV7k"
+        },
+        {
+         "text": "20sec Chin Over Bar Isometric Hold",
+         "name": "Chin Over Bar Isometric Hold",
+         "vid": "PtxPHXIcHo0"
+        },
+        {
+         "text": "12 Band Pull Aparts",
+         "name": "Band Pull Aparts",
+         "vid": "MnDpmNYUjbc"
+        }
+       ]
+      },
+      {
+       "label": "Contrast Pair",
+       "sub": "Heavy + fast - 3 sets, rest 2min",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Strict Chest to Bar Pull Up",
+         "tempo": "30X1",
+         "reps": "heavy 3, then 5, 5 @ 80%",
+         "rest": "2min",
+         "sets": "3",
+         "vid": "9L51G5iXayA",
+         "note": "Add weight once you can do the reps strict."
+        },
+        {
+         "code": "A2",
+         "name": "Dual KB High Pull",
+         "tempo": "X",
+         "reps": "5",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "D98du9B2bgw"
+        }
+       ]
+      },
+      {
+       "label": "Hypertrophy Superset",
+       "sub": "2 sets, rest 60sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Dumbbell Bent Over Row",
+         "tempo": "2011",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "VP_f9V854og"
+        },
+        {
+         "code": "B2",
+         "name": "Zottman Curls",
+         "tempo": "3010",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "2",
+         "vid": "wrjEdVZrkhk"
+        }
+       ]
+      },
+      {
+       "label": "Gymnastics Conditioning",
+       "sub": "C) 3 Rounds For Time",
+       "items": [
+        {
+         "text": "2 Rope Climb",
+         "name": "Rope Climb",
+         "vid": "-I2m2v26W0Y"
+        },
+        {
+         "text": "5 Strict Toes to Bar",
+         "name": "Strict Toes to Bar",
+         "vid": "pgBwmyI36aE"
+        },
+        {
+         "text": "10 Hand Release Push Ups",
+         "name": "Hand Release Push Ups",
+         "vid": "zPrcw-WIdZs"
+        },
+        {
+         "text": "200m run (or 12 Cal Rowing)",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

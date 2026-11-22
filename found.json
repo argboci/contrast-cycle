@@ -1,0 +1,3973 @@
+{
+ "id": "found",
+ "title": "Foundation Cycle",
+ "schedule": [
+  "Mon - Day 1 - Legs",
+  "Tue - Day 2 - Push",
+  "Wed - Optional easy aerobic flow",
+  "Thu - Day 3 - Pull",
+  "Fri - Day 4 - Posterior chain + full body",
+  "Sat / Sun - Rest (walk, mobility)"
+ ],
+ "intro": [
+  "Foundation Cycle: an 8-week base-building cycle. Four training days, one optional easy day. Push / pull / legs plus a posterior-chain day, so every muscle group gets one focused session a week and enough recovery.",
+  "Progression is double progression: week 1 do 3 sets of 10 on the main pair, week 2 3 x 12 with the same load, week 3 add a set (4 x 10) and a little load, week 4 4 x 12. Weeks 5-8 repeat that pattern with new exercises.",
+  "Each day: a main superset (A1/A2) that follows the progression, then a tri-set (B) with fixed reps for pump and control, then a conditioning piece that gets one round or a few minutes longer each week.",
+  "Tempo: 4 digits. 1st = lowering (seconds), 2nd = pause at the bottom, 3rd = lifting (X = explode), 4th = pause at the top. Example 3010.",
+  "Load: pick weights where the last 2 reps of every set are hard but clean. If you hit the top of the reps on all sets with good tempo, add a small amount next time.",
+  "Week 9: deload (half the sets, no conditioning), then move on to the Contrast Cycle or the Power Cycle."
+ ],
+ "weeks": [
+  {
+   "week": 1,
+   "note": "Block 1, week 1: 3 x 10 on the A pair. Find loads that leave 2 reps in the tank. Log them.",
+   "days": [
+    {
+     "day": 1,
+     "title": "Legs - Squat + Single Leg",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Air Squat",
+         "name": "Air Squat",
+         "vid": "fKOXaTFVGho"
+        },
+        {
+         "text": "8/leg Cobra Reverse Lunge",
+         "name": "Cobra Reverse Lunge",
+         "vid": "Ih3YRZud1EU"
+        },
+        {
+         "text": "30sec Hollow Hold",
+         "name": "Hollow Hold",
+         "vid": "4xRpGgttca8"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Back Squat",
+         "tempo": "3010",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "Rvy12jFLBFo"
+        },
+        {
+         "code": "A2",
+         "name": "Banded Deadbug",
+         "tempo": "2020",
+         "reps": "8/side",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "wCwn7-Z-XjE"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Dumbbell Box Step Ups",
+         "tempo": "2010",
+         "reps": "10/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "37tVohr7LcE"
+        },
+        {
+         "code": "B2",
+         "name": "Kettlebell Rack Curtsy Step Down",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "YIAvtSckfvc"
+        },
+        {
+         "code": "B3",
+         "name": "Cyclist Air Squat",
+         "tempo": "3010",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "7GBBdCDWpn4"
+        }
+       ]
+      },
+      {
+       "label": "Leg Endurance",
+       "sub": "C) 3 Rounds - rest 90sec between rounds",
+       "items": [
+        {
+         "text": "12 Cal Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "10 Jump Squat",
+         "name": "Jump Squat",
+         "vid": "-95X7sYHNDI"
+        },
+        {
+         "text": "20 Alternating Box Step Up",
+         "name": "Alternating Box Step Up",
+         "vid": "lUSmIRNqt9w"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "30sec/side Side Plank",
+         "name": "Side Plank",
+         "vid": "_R389Jk0tIo"
+        },
+        {
+         "text": "10/side Bird Dog (2sec hold)",
+         "name": "Bird Dog",
+         "vid": "vzU5xrs1gMQ"
+        }
+       ]
+      },
+      {
+       "label": "Coaching Tip",
+       "sub": "",
+       "items": [
+        {
+         "text": "Squat depth before load: hips below knees with a neutral back on every rep, then add weight."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Push - Chest, Shoulders, Triceps",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Push Ups",
+         "name": "Push Ups",
+         "vid": "IIpHnPCkl7Q"
+        },
+        {
+         "text": "12 Banded Face Pulls",
+         "name": "Banded Face Pulls",
+         "vid": "5jgKj8ColLg"
+        },
+        {
+         "text": "5 Plank to Top of Push Up",
+         "name": "Plank to Top of Push Up",
+         "vid": "-jN-4v4Yed4"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Dumbbell Bench Press",
+         "tempo": "3010",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "hm_TrCkhJgo"
+        },
+        {
+         "code": "A2",
+         "name": "Seated Dumbbell Press",
+         "tempo": "2010",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "3GFZpOYu0pQ"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Ring Push Up",
+         "tempo": "2010",
+         "reps": "10-12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "K_ZNhLw2yb4"
+        },
+        {
+         "code": "B2",
+         "name": "DB Shoulder Lateral Raise",
+         "tempo": "2011",
+         "reps": "12-15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "n_r-ROwHkdA"
+        },
+        {
+         "code": "B3",
+         "name": "Bench Dips",
+         "tempo": "2010",
+         "reps": "12-15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "XXvuYGCxpkk"
+        }
+       ]
+      },
+      {
+       "label": "Push Intervals",
+       "sub": "C) EMOM x 12",
+       "items": [
+        {
+         "text": "1st - 10 Dual Dumbbell Push Press",
+         "name": "Dual Dumbbell Push Press",
+         "vid": "eLnQUwgvJF0"
+        },
+        {
+         "text": "2nd - 30sec Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "3rd - 30sec Hollow Rocks",
+         "name": "Hollow Rocks",
+         "vid": "6Qdh8qzxFY8"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": "flow",
+     "title": "Optional - Easy Aerobic Flow",
+     "blocks": [
+      {
+       "label": "Note",
+       "sub": "",
+       "items": [
+        {
+         "text": "Easy day: conversational pace, nose breathing if you can. Skip it if you feel beaten up."
+        }
+       ]
+      },
+      {
+       "label": "Easy Aerobic Flow",
+       "sub": "24min continuous - easy",
+       "items": [
+        {
+         "text": "5min Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "1min Bear Crawl (forward and back)",
+         "name": "Bear Crawl",
+         "vid": "yAQsNL4wnHE"
+        },
+        {
+         "text": "5min Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "1min Reverse Plank Bridge holds (20sec on / 10sec off)",
+         "name": "Reverse Plank Bridge",
+         "vid": "hW4cbpEaVG0"
+        },
+        {
+         "text": "5min easy run or brisk walk"
+        },
+        {
+         "text": "1min Dead Bug or Bird Dog",
+         "name": "Dead Bug",
+         "vid": "wCwn7-Z-XjE"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Pull - Back + Biceps",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Scap Pull Up",
+         "name": "Scap Pull Up",
+         "vid": "pE8PJsWEV7k"
+        },
+        {
+         "text": "10 Ring Row",
+         "name": "Ring Row",
+         "vid": "EN6ubEkzMC0"
+        },
+        {
+         "text": "15 Band Pull Aparts",
+         "name": "Band Pull Aparts",
+         "vid": "MnDpmNYUjbc"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Strict Pull Ups",
+         "tempo": "3010",
+         "reps": "5-8",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "gfRjCi4JSM8",
+         "note": "Use a band if you cannot reach the reps. Add weight if you pass them."
+        },
+        {
+         "code": "A2",
+         "name": "Single Arm Dumbbell Row",
+         "tempo": "2011",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "xl1YiqQY2vA"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Supinated Ring Row",
+         "tempo": "2011",
+         "reps": "12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "kxVIYrlqiJg"
+        },
+        {
+         "code": "B2",
+         "name": "Bent Over Reverse DB Fly",
+         "tempo": "2011",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "hf7jnF45N_I"
+        },
+        {
+         "code": "B3",
+         "name": "Zottman Curls",
+         "tempo": "3010",
+         "reps": "10-12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "wrjEdVZrkhk"
+        }
+       ]
+      },
+      {
+       "label": "Pull Circuit",
+       "sub": "C) For Time - 3 Rounds",
+       "items": [
+        {
+         "text": "250m Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "12 Kettlebell Renegade Row (6/arm)",
+         "name": "Kettlebell Renegade Row",
+         "vid": "i8VL6OjVlCY"
+        },
+        {
+         "text": "30m Farmers Carry",
+         "name": "Farmers Carry",
+         "vid": "kaQWccrfY40"
+        }
+       ]
+      },
+      {
+       "label": "Coaching Tip",
+       "sub": "",
+       "items": [
+        {
+         "text": "Pull-ups: start every rep from a dead hang with shoulders set. Quality reps over kipping."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Posterior Chain + Full Body",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "12 Glute Bridges",
+         "name": "Glute Bridges",
+         "vid": "wMEoGwkk650"
+        },
+        {
+         "text": "8 Good Morning (empty bar)",
+         "name": "Good Morning",
+         "vid": "F8dCjzbed-4"
+        },
+        {
+         "text": "5 Broad Jump",
+         "name": "Broad Jump",
+         "vid": "vPQv1gmrfUo"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Romanian Deadlift",
+         "tempo": "3011",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "A9vCfTTMndA"
+        },
+        {
+         "code": "A2",
+         "name": "Russian Kettlebell Swing",
+         "tempo": "X",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "KkYOW3jDhoM"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Barbell Hip Thrust",
+         "tempo": "2012",
+         "reps": "12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "hg9MMvd-MY8"
+        },
+        {
+         "code": "B2",
+         "name": "Single Leg Dual Kettlebell Romanian Deadlift",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "JkKxFADvLvk"
+        },
+        {
+         "code": "B3",
+         "name": "Back Extensions",
+         "tempo": "2011",
+         "reps": "12-15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "zyBVlPuJeHg"
+        }
+       ]
+      },
+      {
+       "label": "Full Body Conditioning",
+       "sub": "C) 10min AMRAP",
+       "items": [
+        {
+         "text": "8 DB Thruster",
+         "name": "DB Thruster",
+         "vid": "VdPjfmRcQfw"
+        },
+        {
+         "text": "10 Toes to Bar (scale: hanging knee raises)",
+         "name": "Toes to Bar",
+         "vid": "7HZukFecYrM"
+        },
+        {
+         "text": "12 Cal Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "note": "Week 2: same loads, 3 x 12. Conditioning stays the same.",
+   "days": [
+    {
+     "day": 1,
+     "title": "Legs - Squat + Single Leg",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Air Squat",
+         "name": "Air Squat",
+         "vid": "fKOXaTFVGho"
+        },
+        {
+         "text": "8/leg Cobra Reverse Lunge",
+         "name": "Cobra Reverse Lunge",
+         "vid": "Ih3YRZud1EU"
+        },
+        {
+         "text": "30sec Hollow Hold",
+         "name": "Hollow Hold",
+         "vid": "4xRpGgttca8"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Back Squat",
+         "tempo": "3010",
+         "reps": "12",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "Rvy12jFLBFo"
+        },
+        {
+         "code": "A2",
+         "name": "Banded Deadbug",
+         "tempo": "2020",
+         "reps": "8/side",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "wCwn7-Z-XjE"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Dumbbell Box Step Ups",
+         "tempo": "2010",
+         "reps": "10/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "37tVohr7LcE"
+        },
+        {
+         "code": "B2",
+         "name": "Kettlebell Rack Curtsy Step Down",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "YIAvtSckfvc"
+        },
+        {
+         "code": "B3",
+         "name": "Cyclist Air Squat",
+         "tempo": "3010",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "7GBBdCDWpn4"
+        }
+       ]
+      },
+      {
+       "label": "Leg Endurance",
+       "sub": "C) 3 Rounds - rest 90sec between rounds",
+       "items": [
+        {
+         "text": "12 Cal Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "10 Jump Squat",
+         "name": "Jump Squat",
+         "vid": "-95X7sYHNDI"
+        },
+        {
+         "text": "20 Alternating Box Step Up",
+         "name": "Alternating Box Step Up",
+         "vid": "lUSmIRNqt9w"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "30sec/side Side Plank",
+         "name": "Side Plank",
+         "vid": "_R389Jk0tIo"
+        },
+        {
+         "text": "10/side Bird Dog (2sec hold)",
+         "name": "Bird Dog",
+         "vid": "vzU5xrs1gMQ"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Push - Chest, Shoulders, Triceps",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Push Ups",
+         "name": "Push Ups",
+         "vid": "IIpHnPCkl7Q"
+        },
+        {
+         "text": "12 Banded Face Pulls",
+         "name": "Banded Face Pulls",
+         "vid": "5jgKj8ColLg"
+        },
+        {
+         "text": "5 Plank to Top of Push Up",
+         "name": "Plank to Top of Push Up",
+         "vid": "-jN-4v4Yed4"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Dumbbell Bench Press",
+         "tempo": "3010",
+         "reps": "12",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "hm_TrCkhJgo"
+        },
+        {
+         "code": "A2",
+         "name": "Seated Dumbbell Press",
+         "tempo": "2010",
+         "reps": "12",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "3GFZpOYu0pQ"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Ring Push Up",
+         "tempo": "2010",
+         "reps": "10-12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "K_ZNhLw2yb4"
+        },
+        {
+         "code": "B2",
+         "name": "DB Shoulder Lateral Raise",
+         "tempo": "2011",
+         "reps": "12-15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "n_r-ROwHkdA"
+        },
+        {
+         "code": "B3",
+         "name": "Bench Dips",
+         "tempo": "2010",
+         "reps": "12-15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "XXvuYGCxpkk"
+        }
+       ]
+      },
+      {
+       "label": "Push Intervals",
+       "sub": "C) EMOM x 12",
+       "items": [
+        {
+         "text": "1st - 10 Dual Dumbbell Push Press",
+         "name": "Dual Dumbbell Push Press",
+         "vid": "eLnQUwgvJF0"
+        },
+        {
+         "text": "2nd - 30sec Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "3rd - 30sec Hollow Rocks",
+         "name": "Hollow Rocks",
+         "vid": "6Qdh8qzxFY8"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": "flow",
+     "title": "Optional - Easy Aerobic Flow",
+     "blocks": [
+      {
+       "label": "Note",
+       "sub": "",
+       "items": [
+        {
+         "text": "Easy day: conversational pace, nose breathing if you can. Skip it if you feel beaten up."
+        }
+       ]
+      },
+      {
+       "label": "Easy Aerobic Flow",
+       "sub": "24min continuous - easy",
+       "items": [
+        {
+         "text": "5min Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "1min Bear Crawl (forward and back)",
+         "name": "Bear Crawl",
+         "vid": "yAQsNL4wnHE"
+        },
+        {
+         "text": "5min Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "1min Reverse Plank Bridge holds (20sec on / 10sec off)",
+         "name": "Reverse Plank Bridge",
+         "vid": "hW4cbpEaVG0"
+        },
+        {
+         "text": "5min easy run or brisk walk"
+        },
+        {
+         "text": "1min Dead Bug or Bird Dog",
+         "name": "Dead Bug",
+         "vid": "wCwn7-Z-XjE"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Pull - Back + Biceps",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Scap Pull Up",
+         "name": "Scap Pull Up",
+         "vid": "pE8PJsWEV7k"
+        },
+        {
+         "text": "10 Ring Row",
+         "name": "Ring Row",
+         "vid": "EN6ubEkzMC0"
+        },
+        {
+         "text": "15 Band Pull Aparts",
+         "name": "Band Pull Aparts",
+         "vid": "MnDpmNYUjbc"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Strict Pull Ups",
+         "tempo": "3010",
+         "reps": "6-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "gfRjCi4JSM8",
+         "note": "Use a band if you cannot reach the reps. Add weight if you pass them."
+        },
+        {
+         "code": "A2",
+         "name": "Single Arm Dumbbell Row",
+         "tempo": "2011",
+         "reps": "12",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "xl1YiqQY2vA"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Supinated Ring Row",
+         "tempo": "2011",
+         "reps": "12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "kxVIYrlqiJg"
+        },
+        {
+         "code": "B2",
+         "name": "Bent Over Reverse DB Fly",
+         "tempo": "2011",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "hf7jnF45N_I"
+        },
+        {
+         "code": "B3",
+         "name": "Zottman Curls",
+         "tempo": "3010",
+         "reps": "10-12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "wrjEdVZrkhk"
+        }
+       ]
+      },
+      {
+       "label": "Pull Circuit",
+       "sub": "C) For Time - 3 Rounds",
+       "items": [
+        {
+         "text": "250m Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "12 Kettlebell Renegade Row (6/arm)",
+         "name": "Kettlebell Renegade Row",
+         "vid": "i8VL6OjVlCY"
+        },
+        {
+         "text": "30m Farmers Carry",
+         "name": "Farmers Carry",
+         "vid": "kaQWccrfY40"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Posterior Chain + Full Body",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "12 Glute Bridges",
+         "name": "Glute Bridges",
+         "vid": "wMEoGwkk650"
+        },
+        {
+         "text": "8 Good Morning (empty bar)",
+         "name": "Good Morning",
+         "vid": "F8dCjzbed-4"
+        },
+        {
+         "text": "5 Broad Jump",
+         "name": "Broad Jump",
+         "vid": "vPQv1gmrfUo"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Romanian Deadlift",
+         "tempo": "3011",
+         "reps": "12",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "A9vCfTTMndA"
+        },
+        {
+         "code": "A2",
+         "name": "Russian Kettlebell Swing",
+         "tempo": "X",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "KkYOW3jDhoM"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Barbell Hip Thrust",
+         "tempo": "2012",
+         "reps": "12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "hg9MMvd-MY8"
+        },
+        {
+         "code": "B2",
+         "name": "Single Leg Dual Kettlebell Romanian Deadlift",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "JkKxFADvLvk"
+        },
+        {
+         "code": "B3",
+         "name": "Back Extensions",
+         "tempo": "2011",
+         "reps": "12-15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "zyBVlPuJeHg"
+        }
+       ]
+      },
+      {
+       "label": "Full Body Conditioning",
+       "sub": "C) 10min AMRAP",
+       "items": [
+        {
+         "text": "8 DB Thruster",
+         "name": "DB Thruster",
+         "vid": "VdPjfmRcQfw"
+        },
+        {
+         "text": "10 Toes to Bar (scale: hanging knee raises)",
+         "name": "Toes to Bar",
+         "vid": "7HZukFecYrM"
+        },
+        {
+         "text": "12 Cal Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "note": "Week 3: 4 x 10, add a little load to the A pair. Conditioning gets one more round.",
+   "days": [
+    {
+     "day": 1,
+     "title": "Legs - Squat + Single Leg",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Air Squat",
+         "name": "Air Squat",
+         "vid": "fKOXaTFVGho"
+        },
+        {
+         "text": "8/leg Cobra Reverse Lunge",
+         "name": "Cobra Reverse Lunge",
+         "vid": "Ih3YRZud1EU"
+        },
+        {
+         "text": "30sec Hollow Hold",
+         "name": "Hollow Hold",
+         "vid": "4xRpGgttca8"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 4 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Back Squat",
+         "tempo": "3010",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "Rvy12jFLBFo"
+        },
+        {
+         "code": "A2",
+         "name": "Banded Deadbug",
+         "tempo": "2020",
+         "reps": "8/side",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "wCwn7-Z-XjE"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Dumbbell Box Step Ups",
+         "tempo": "2010",
+         "reps": "10/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "37tVohr7LcE"
+        },
+        {
+         "code": "B2",
+         "name": "Kettlebell Rack Curtsy Step Down",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "YIAvtSckfvc"
+        },
+        {
+         "code": "B3",
+         "name": "Cyclist Air Squat",
+         "tempo": "3010",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "7GBBdCDWpn4"
+        }
+       ]
+      },
+      {
+       "label": "Leg Endurance",
+       "sub": "C) 4 Rounds - rest 90sec between rounds",
+       "items": [
+        {
+         "text": "12 Cal Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "10 Jump Squat",
+         "name": "Jump Squat",
+         "vid": "-95X7sYHNDI"
+        },
+        {
+         "text": "20 Alternating Box Step Up",
+         "name": "Alternating Box Step Up",
+         "vid": "lUSmIRNqt9w"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "30sec/side Side Plank",
+         "name": "Side Plank",
+         "vid": "_R389Jk0tIo"
+        },
+        {
+         "text": "10/side Bird Dog (2sec hold)",
+         "name": "Bird Dog",
+         "vid": "vzU5xrs1gMQ"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Push - Chest, Shoulders, Triceps",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Push Ups",
+         "name": "Push Ups",
+         "vid": "IIpHnPCkl7Q"
+        },
+        {
+         "text": "12 Banded Face Pulls",
+         "name": "Banded Face Pulls",
+         "vid": "5jgKj8ColLg"
+        },
+        {
+         "text": "5 Plank to Top of Push Up",
+         "name": "Plank to Top of Push Up",
+         "vid": "-jN-4v4Yed4"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 4 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Dumbbell Bench Press",
+         "tempo": "3010",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "hm_TrCkhJgo"
+        },
+        {
+         "code": "A2",
+         "name": "Seated Dumbbell Press",
+         "tempo": "2010",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "3GFZpOYu0pQ"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Ring Push Up",
+         "tempo": "2010",
+         "reps": "10-12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "K_ZNhLw2yb4"
+        },
+        {
+         "code": "B2",
+         "name": "DB Shoulder Lateral Raise",
+         "tempo": "2011",
+         "reps": "12-15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "n_r-ROwHkdA"
+        },
+        {
+         "code": "B3",
+         "name": "Bench Dips",
+         "tempo": "2010",
+         "reps": "12-15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "XXvuYGCxpkk"
+        }
+       ]
+      },
+      {
+       "label": "Push Intervals",
+       "sub": "C) EMOM x 15",
+       "items": [
+        {
+         "text": "1st - 10 Dual Dumbbell Push Press",
+         "name": "Dual Dumbbell Push Press",
+         "vid": "eLnQUwgvJF0"
+        },
+        {
+         "text": "2nd - 30sec Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "3rd - 30sec Hollow Rocks",
+         "name": "Hollow Rocks",
+         "vid": "6Qdh8qzxFY8"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": "flow",
+     "title": "Optional - Easy Aerobic Flow",
+     "blocks": [
+      {
+       "label": "Note",
+       "sub": "",
+       "items": [
+        {
+         "text": "Easy day: conversational pace, nose breathing if you can. Skip it if you feel beaten up."
+        }
+       ]
+      },
+      {
+       "label": "Easy Aerobic Flow",
+       "sub": "30min continuous - easy",
+       "items": [
+        {
+         "text": "5min Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "1min Bear Crawl (forward and back)",
+         "name": "Bear Crawl",
+         "vid": "yAQsNL4wnHE"
+        },
+        {
+         "text": "5min Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "1min Reverse Plank Bridge holds (20sec on / 10sec off)",
+         "name": "Reverse Plank Bridge",
+         "vid": "hW4cbpEaVG0"
+        },
+        {
+         "text": "5min easy run or brisk walk"
+        },
+        {
+         "text": "1min Dead Bug or Bird Dog",
+         "name": "Dead Bug",
+         "vid": "wCwn7-Z-XjE"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Pull - Back + Biceps",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Scap Pull Up",
+         "name": "Scap Pull Up",
+         "vid": "pE8PJsWEV7k"
+        },
+        {
+         "text": "10 Ring Row",
+         "name": "Ring Row",
+         "vid": "EN6ubEkzMC0"
+        },
+        {
+         "text": "15 Band Pull Aparts",
+         "name": "Band Pull Aparts",
+         "vid": "MnDpmNYUjbc"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 4 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Strict Pull Ups",
+         "tempo": "3010",
+         "reps": "5-8",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "gfRjCi4JSM8",
+         "note": "Use a band if you cannot reach the reps. Add weight if you pass them."
+        },
+        {
+         "code": "A2",
+         "name": "Single Arm Dumbbell Row",
+         "tempo": "2011",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "xl1YiqQY2vA"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Supinated Ring Row",
+         "tempo": "2011",
+         "reps": "12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "kxVIYrlqiJg"
+        },
+        {
+         "code": "B2",
+         "name": "Bent Over Reverse DB Fly",
+         "tempo": "2011",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "hf7jnF45N_I"
+        },
+        {
+         "code": "B3",
+         "name": "Zottman Curls",
+         "tempo": "3010",
+         "reps": "10-12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "wrjEdVZrkhk"
+        }
+       ]
+      },
+      {
+       "label": "Pull Circuit",
+       "sub": "C) For Time - 4 Rounds",
+       "items": [
+        {
+         "text": "250m Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "12 Kettlebell Renegade Row (6/arm)",
+         "name": "Kettlebell Renegade Row",
+         "vid": "i8VL6OjVlCY"
+        },
+        {
+         "text": "30m Farmers Carry",
+         "name": "Farmers Carry",
+         "vid": "kaQWccrfY40"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Posterior Chain + Full Body",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "12 Glute Bridges",
+         "name": "Glute Bridges",
+         "vid": "wMEoGwkk650"
+        },
+        {
+         "text": "8 Good Morning (empty bar)",
+         "name": "Good Morning",
+         "vid": "F8dCjzbed-4"
+        },
+        {
+         "text": "5 Broad Jump",
+         "name": "Broad Jump",
+         "vid": "vPQv1gmrfUo"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 4 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Romanian Deadlift",
+         "tempo": "3011",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "A9vCfTTMndA"
+        },
+        {
+         "code": "A2",
+         "name": "Russian Kettlebell Swing",
+         "tempo": "X",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "KkYOW3jDhoM"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Barbell Hip Thrust",
+         "tempo": "2012",
+         "reps": "12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "hg9MMvd-MY8"
+        },
+        {
+         "code": "B2",
+         "name": "Single Leg Dual Kettlebell Romanian Deadlift",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "JkKxFADvLvk"
+        },
+        {
+         "code": "B3",
+         "name": "Back Extensions",
+         "tempo": "2011",
+         "reps": "12-15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "zyBVlPuJeHg"
+        }
+       ]
+      },
+      {
+       "label": "Full Body Conditioning",
+       "sub": "C) 12min AMRAP",
+       "items": [
+        {
+         "text": "8 DB Thruster",
+         "name": "DB Thruster",
+         "vid": "VdPjfmRcQfw"
+        },
+        {
+         "text": "10 Toes to Bar (scale: hanging knee raises)",
+         "name": "Toes to Bar",
+         "vid": "7HZukFecYrM"
+        },
+        {
+         "text": "12 Cal Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "note": "Week 4: 4 x 12 with week 3's loads. The last set should be a real effort.",
+   "days": [
+    {
+     "day": 1,
+     "title": "Legs - Squat + Single Leg",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Air Squat",
+         "name": "Air Squat",
+         "vid": "fKOXaTFVGho"
+        },
+        {
+         "text": "8/leg Cobra Reverse Lunge",
+         "name": "Cobra Reverse Lunge",
+         "vid": "Ih3YRZud1EU"
+        },
+        {
+         "text": "30sec Hollow Hold",
+         "name": "Hollow Hold",
+         "vid": "4xRpGgttca8"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 4 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Back Squat",
+         "tempo": "3010",
+         "reps": "12",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "Rvy12jFLBFo"
+        },
+        {
+         "code": "A2",
+         "name": "Banded Deadbug",
+         "tempo": "2020",
+         "reps": "8/side",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "wCwn7-Z-XjE"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Dumbbell Box Step Ups",
+         "tempo": "2010",
+         "reps": "10/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "37tVohr7LcE"
+        },
+        {
+         "code": "B2",
+         "name": "Kettlebell Rack Curtsy Step Down",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "YIAvtSckfvc"
+        },
+        {
+         "code": "B3",
+         "name": "Cyclist Air Squat",
+         "tempo": "3010",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "7GBBdCDWpn4"
+        }
+       ]
+      },
+      {
+       "label": "Leg Endurance",
+       "sub": "C) 4 Rounds - rest 90sec between rounds",
+       "items": [
+        {
+         "text": "12 Cal Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "10 Jump Squat",
+         "name": "Jump Squat",
+         "vid": "-95X7sYHNDI"
+        },
+        {
+         "text": "20 Alternating Box Step Up",
+         "name": "Alternating Box Step Up",
+         "vid": "lUSmIRNqt9w"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "30sec/side Side Plank",
+         "name": "Side Plank",
+         "vid": "_R389Jk0tIo"
+        },
+        {
+         "text": "10/side Bird Dog (2sec hold)",
+         "name": "Bird Dog",
+         "vid": "vzU5xrs1gMQ"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Push - Chest, Shoulders, Triceps",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Push Ups",
+         "name": "Push Ups",
+         "vid": "IIpHnPCkl7Q"
+        },
+        {
+         "text": "12 Banded Face Pulls",
+         "name": "Banded Face Pulls",
+         "vid": "5jgKj8ColLg"
+        },
+        {
+         "text": "5 Plank to Top of Push Up",
+         "name": "Plank to Top of Push Up",
+         "vid": "-jN-4v4Yed4"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 4 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Dumbbell Bench Press",
+         "tempo": "3010",
+         "reps": "12",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "hm_TrCkhJgo"
+        },
+        {
+         "code": "A2",
+         "name": "Seated Dumbbell Press",
+         "tempo": "2010",
+         "reps": "12",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "3GFZpOYu0pQ"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Ring Push Up",
+         "tempo": "2010",
+         "reps": "10-12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "K_ZNhLw2yb4"
+        },
+        {
+         "code": "B2",
+         "name": "DB Shoulder Lateral Raise",
+         "tempo": "2011",
+         "reps": "12-15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "n_r-ROwHkdA"
+        },
+        {
+         "code": "B3",
+         "name": "Bench Dips",
+         "tempo": "2010",
+         "reps": "12-15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "XXvuYGCxpkk"
+        }
+       ]
+      },
+      {
+       "label": "Push Intervals",
+       "sub": "C) EMOM x 15",
+       "items": [
+        {
+         "text": "1st - 10 Dual Dumbbell Push Press",
+         "name": "Dual Dumbbell Push Press",
+         "vid": "eLnQUwgvJF0"
+        },
+        {
+         "text": "2nd - 30sec Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "3rd - 30sec Hollow Rocks",
+         "name": "Hollow Rocks",
+         "vid": "6Qdh8qzxFY8"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": "flow",
+     "title": "Optional - Easy Aerobic Flow",
+     "blocks": [
+      {
+       "label": "Note",
+       "sub": "",
+       "items": [
+        {
+         "text": "Easy day: conversational pace, nose breathing if you can. Skip it if you feel beaten up."
+        }
+       ]
+      },
+      {
+       "label": "Easy Aerobic Flow",
+       "sub": "30min continuous - easy",
+       "items": [
+        {
+         "text": "5min Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "1min Bear Crawl (forward and back)",
+         "name": "Bear Crawl",
+         "vid": "yAQsNL4wnHE"
+        },
+        {
+         "text": "5min Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "1min Reverse Plank Bridge holds (20sec on / 10sec off)",
+         "name": "Reverse Plank Bridge",
+         "vid": "hW4cbpEaVG0"
+        },
+        {
+         "text": "5min easy run or brisk walk"
+        },
+        {
+         "text": "1min Dead Bug or Bird Dog",
+         "name": "Dead Bug",
+         "vid": "wCwn7-Z-XjE"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Pull - Back + Biceps",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Scap Pull Up",
+         "name": "Scap Pull Up",
+         "vid": "pE8PJsWEV7k"
+        },
+        {
+         "text": "10 Ring Row",
+         "name": "Ring Row",
+         "vid": "EN6ubEkzMC0"
+        },
+        {
+         "text": "15 Band Pull Aparts",
+         "name": "Band Pull Aparts",
+         "vid": "MnDpmNYUjbc"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 4 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Strict Pull Ups",
+         "tempo": "3010",
+         "reps": "6-10",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "gfRjCi4JSM8",
+         "note": "Use a band if you cannot reach the reps. Add weight if you pass them."
+        },
+        {
+         "code": "A2",
+         "name": "Single Arm Dumbbell Row",
+         "tempo": "2011",
+         "reps": "12",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "xl1YiqQY2vA"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Supinated Ring Row",
+         "tempo": "2011",
+         "reps": "12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "kxVIYrlqiJg"
+        },
+        {
+         "code": "B2",
+         "name": "Bent Over Reverse DB Fly",
+         "tempo": "2011",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "hf7jnF45N_I"
+        },
+        {
+         "code": "B3",
+         "name": "Zottman Curls",
+         "tempo": "3010",
+         "reps": "10-12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "wrjEdVZrkhk"
+        }
+       ]
+      },
+      {
+       "label": "Pull Circuit",
+       "sub": "C) For Time - 4 Rounds",
+       "items": [
+        {
+         "text": "250m Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "12 Kettlebell Renegade Row (6/arm)",
+         "name": "Kettlebell Renegade Row",
+         "vid": "i8VL6OjVlCY"
+        },
+        {
+         "text": "30m Farmers Carry",
+         "name": "Farmers Carry",
+         "vid": "kaQWccrfY40"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Posterior Chain + Full Body",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "12 Glute Bridges",
+         "name": "Glute Bridges",
+         "vid": "wMEoGwkk650"
+        },
+        {
+         "text": "8 Good Morning (empty bar)",
+         "name": "Good Morning",
+         "vid": "F8dCjzbed-4"
+        },
+        {
+         "text": "5 Broad Jump",
+         "name": "Broad Jump",
+         "vid": "vPQv1gmrfUo"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 4 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Romanian Deadlift",
+         "tempo": "3011",
+         "reps": "12",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "A9vCfTTMndA"
+        },
+        {
+         "code": "A2",
+         "name": "Russian Kettlebell Swing",
+         "tempo": "X",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "KkYOW3jDhoM"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Barbell Hip Thrust",
+         "tempo": "2012",
+         "reps": "12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "hg9MMvd-MY8"
+        },
+        {
+         "code": "B2",
+         "name": "Single Leg Dual Kettlebell Romanian Deadlift",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "JkKxFADvLvk"
+        },
+        {
+         "code": "B3",
+         "name": "Back Extensions",
+         "tempo": "2011",
+         "reps": "12-15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "zyBVlPuJeHg"
+        }
+       ]
+      },
+      {
+       "label": "Full Body Conditioning",
+       "sub": "C) 12min AMRAP",
+       "items": [
+        {
+         "text": "8 DB Thruster",
+         "name": "DB Thruster",
+         "vid": "VdPjfmRcQfw"
+        },
+        {
+         "text": "10 Toes to Bar (scale: hanging knee raises)",
+         "name": "Toes to Bar",
+         "vid": "7HZukFecYrM"
+        },
+        {
+         "text": "12 Cal Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "note": "Block 2, week 5: new exercises. Back to 3 x 10, find new loads and log them.",
+   "days": [
+    {
+     "day": 1,
+     "title": "Legs - Squat + Single Leg",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Cyclist Air Squat",
+         "name": "Cyclist Air Squat",
+         "vid": "7GBBdCDWpn4"
+        },
+        {
+         "text": "8/leg Cobra Split Squat",
+         "name": "Cobra Split Squat",
+         "vid": "LsSZVQn5z5E"
+        },
+        {
+         "text": "20sec L Sit on Parallettes (tuck if needed)",
+         "name": "L Sit on Parallettes",
+         "vid": "lLu9U0G7Ogw"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Goblet Cyclist Rear Foot Elevated Split Squat",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "M9AJ8e8jK8U"
+        },
+        {
+         "code": "A2",
+         "name": "L Sit on Parallettes",
+         "tempo": "-",
+         "reps": "20sec",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "lLu9U0G7Ogw"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Barbell Front Rack Walking Lunge",
+         "tempo": "2010",
+         "reps": "12 steps",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "uKUMTh0mYW4"
+        },
+        {
+         "code": "B2",
+         "name": "Shrimp Squat",
+         "tempo": "3010",
+         "reps": "5/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "S9_oGOcdppI",
+         "note": "Hold a rack or post for balance."
+        },
+        {
+         "code": "B3",
+         "name": "Banded Sissy Squats",
+         "tempo": "3010",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "bfmQ2JzzVsI"
+        }
+       ]
+      },
+      {
+       "label": "Leg Intervals",
+       "sub": "C) Every 2min x 5",
+       "items": [
+        {
+         "text": "15/12 Cal Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "10 Alternating Deficit Jump Lunge",
+         "name": "Alternating Deficit Jump Lunge",
+         "vid": "VUVeH9hpDRk"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "20 Bicycle Crunch",
+         "name": "Bicycle Crunch",
+         "vid": "_vWNnODwF5w"
+        },
+        {
+         "text": "30sec RKC Plank",
+         "name": "RKC Plank",
+         "vid": "64SmhiH0Xxg"
+        }
+       ]
+      },
+      {
+       "label": "Coaching Tip",
+       "sub": "",
+       "items": [
+        {
+         "text": "Rear-foot-elevated split squats are humbling: start light, hold the goblet tight to your chest."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Push - Chest, Shoulders, Triceps",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Yoga Push Up",
+         "name": "Yoga Push Up",
+         "vid": "_AOxb-7uwEE"
+        },
+        {
+         "text": "10 Ring Face Pull",
+         "name": "Ring Face Pull",
+         "vid": "Im6_BP120ow"
+        },
+        {
+         "text": "20sec Bottom Of Ring Dip Hold",
+         "name": "Bottom Of Ring Dip Hold",
+         "vid": "LyT2mNTB_Kg"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Dumbbell Floor Press",
+         "tempo": "3011",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "9vcKpv45aeE"
+        },
+        {
+         "code": "A2",
+         "name": "Half Kneeling DB Arnold Press",
+         "tempo": "2010",
+         "reps": "8/arm",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "FyR8ARTaGKI"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Feet Elevated KB Push Up",
+         "tempo": "2010",
+         "reps": "10-12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "kw3ht7nZbXs"
+        },
+        {
+         "code": "B2",
+         "name": "DB Shoulder Front Raise",
+         "tempo": "2011",
+         "reps": "12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "xagEKj2yDc8"
+        },
+        {
+         "code": "B3",
+         "name": "Tall Kneeling KB Crush Grip Overhead Tricep Extensions",
+         "tempo": "3010",
+         "reps": "12-15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "FDcuwRBmoP8"
+        }
+       ]
+      },
+      {
+       "label": "Push Conditioning",
+       "sub": "C) 3 Rounds - steady",
+       "items": [
+        {
+         "text": "5 Wall Walk",
+         "name": "Wall Walk",
+         "vid": "JsGNOjxsu9A"
+        },
+        {
+         "text": "15 Cal Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "10 Kettlebell Push Press (5/arm)",
+         "name": "Kettlebell Push Press",
+         "vid": "cK4fCJY2yvM"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": "flow",
+     "title": "Optional - Easy Aerobic Flow",
+     "blocks": [
+      {
+       "label": "Note",
+       "sub": "",
+       "items": [
+        {
+         "text": "Easy day: conversational pace, nose breathing if you can. Skip it if you feel beaten up."
+        }
+       ]
+      },
+      {
+       "label": "Easy Aerobic Flow",
+       "sub": "24min continuous - easy",
+       "items": [
+        {
+         "text": "5min Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "1min Bear Crawl (forward and back)",
+         "name": "Bear Crawl",
+         "vid": "yAQsNL4wnHE"
+        },
+        {
+         "text": "5min Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "1min Reverse Plank Bridge holds (20sec on / 10sec off)",
+         "name": "Reverse Plank Bridge",
+         "vid": "hW4cbpEaVG0"
+        },
+        {
+         "text": "5min easy run or brisk walk"
+        },
+        {
+         "text": "1min Dead Bug or Bird Dog",
+         "name": "Dead Bug",
+         "vid": "wCwn7-Z-XjE"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Pull - Back + Biceps",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Scap Pull Up",
+         "name": "Scap Pull Up",
+         "vid": "pE8PJsWEV7k"
+        },
+        {
+         "text": "20sec Strict Pull Up Isometric Hold Over Bar",
+         "name": "Strict Pull Up Isometric Hold Over Bar",
+         "vid": "PtxPHXIcHo0"
+        },
+        {
+         "text": "12 Band Pull Aparts",
+         "name": "Band Pull Aparts",
+         "vid": "MnDpmNYUjbc"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Supinated Grip Pull Up",
+         "tempo": "3010",
+         "reps": "5-8",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "nMngQ4nxUU0",
+         "note": "Band or jumping negatives if needed."
+        },
+        {
+         "code": "A2",
+         "name": "Dumbbell Bent Over Row",
+         "tempo": "2011",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "VP_f9V854og"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Archer Ring Row",
+         "tempo": "2011",
+         "reps": "6/arm",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "4g8CM9pV4X4"
+        },
+        {
+         "code": "B2",
+         "name": "Banded Face Pulls",
+         "tempo": "2011",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "5jgKj8ColLg"
+        },
+        {
+         "code": "B3",
+         "name": "KB Hammer Grip Bicep Curls",
+         "tempo": "3010",
+         "reps": "10-12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "QxVpZfj5iTI"
+        }
+       ]
+      },
+      {
+       "label": "Pull Circuit",
+       "sub": "C) For Time - 4 Rounds",
+       "items": [
+        {
+         "text": "8 Gorilla Burpee",
+         "name": "Gorilla Burpee",
+         "vid": "tEHRQB5g35Y"
+        },
+        {
+         "text": "10 Ring Row",
+         "name": "Ring Row",
+         "vid": "EN6ubEkzMC0"
+        },
+        {
+         "text": "30 Double Unders (or 60 Single Unders)",
+         "name": "Double Unders",
+         "vid": "3SN4_WAVwL8"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Posterior Chain + Full Body",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10/side Bridge Psoas March",
+         "name": "Bridge Psoas March",
+         "vid": "uN1ecndDsCk"
+        },
+        {
+         "text": "8 Seated Good Morning",
+         "name": "Seated Good Morning",
+         "vid": "ZPeJ0s8X6Gs"
+        },
+        {
+         "text": "5 Broad Jump",
+         "name": "Broad Jump",
+         "vid": "vPQv1gmrfUo"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Banded Deadlift",
+         "tempo": "3011",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "hKvgiDo7htM",
+         "note": "No bands: conventional deadlift with a 1sec pause just off the floor."
+        },
+        {
+         "code": "A2",
+         "name": "Dual Russian Kettlebell Swings",
+         "tempo": "X",
+         "reps": "12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "fOPqk1FA4HU"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Single Leg Foot Elevated Glute Bridge",
+         "tempo": "2011",
+         "reps": "12/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "q4tbcohWf4k"
+        },
+        {
+         "code": "B2",
+         "name": "Split Stance Crossbody KB RDL",
+         "tempo": "3010",
+         "reps": "10/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "YFG7J4TZsl0"
+        },
+        {
+         "code": "B3",
+         "name": "Superman Rocks",
+         "tempo": "-",
+         "reps": "20",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "wG1L4otl1M8"
+        }
+       ]
+      },
+      {
+       "label": "Full Body Conditioning",
+       "sub": "C) 12min AMRAP",
+       "items": [
+        {
+         "text": "10 Kettlebell Snatch From Floor (5/arm)",
+         "name": "Kettlebell Snatch From Floor",
+         "vid": "qxHG6E00rF8"
+        },
+        {
+         "text": "8 Box Jump Overs",
+         "name": "Box Jump Overs",
+         "vid": "f6AR27I-DwU"
+        },
+        {
+         "text": "15 Sit Ups",
+         "name": "Sit Ups",
+         "vid": "8pBsG75at6Q"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "note": "Week 6: same loads, 3 x 12.",
+   "days": [
+    {
+     "day": 1,
+     "title": "Legs - Squat + Single Leg",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Cyclist Air Squat",
+         "name": "Cyclist Air Squat",
+         "vid": "7GBBdCDWpn4"
+        },
+        {
+         "text": "8/leg Cobra Split Squat",
+         "name": "Cobra Split Squat",
+         "vid": "LsSZVQn5z5E"
+        },
+        {
+         "text": "20sec L Sit on Parallettes (tuck if needed)",
+         "name": "L Sit on Parallettes",
+         "vid": "lLu9U0G7Ogw"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Goblet Cyclist Rear Foot Elevated Split Squat",
+         "tempo": "3010",
+         "reps": "10/leg",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "M9AJ8e8jK8U"
+        },
+        {
+         "code": "A2",
+         "name": "L Sit on Parallettes",
+         "tempo": "-",
+         "reps": "20sec",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "lLu9U0G7Ogw"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Barbell Front Rack Walking Lunge",
+         "tempo": "2010",
+         "reps": "12 steps",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "uKUMTh0mYW4"
+        },
+        {
+         "code": "B2",
+         "name": "Shrimp Squat",
+         "tempo": "3010",
+         "reps": "5/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "S9_oGOcdppI",
+         "note": "Hold a rack or post for balance."
+        },
+        {
+         "code": "B3",
+         "name": "Banded Sissy Squats",
+         "tempo": "3010",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "bfmQ2JzzVsI"
+        }
+       ]
+      },
+      {
+       "label": "Leg Intervals",
+       "sub": "C) Every 2min x 5",
+       "items": [
+        {
+         "text": "15/12 Cal Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "10 Alternating Deficit Jump Lunge",
+         "name": "Alternating Deficit Jump Lunge",
+         "vid": "VUVeH9hpDRk"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "20 Bicycle Crunch",
+         "name": "Bicycle Crunch",
+         "vid": "_vWNnODwF5w"
+        },
+        {
+         "text": "30sec RKC Plank",
+         "name": "RKC Plank",
+         "vid": "64SmhiH0Xxg"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Push - Chest, Shoulders, Triceps",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Yoga Push Up",
+         "name": "Yoga Push Up",
+         "vid": "_AOxb-7uwEE"
+        },
+        {
+         "text": "10 Ring Face Pull",
+         "name": "Ring Face Pull",
+         "vid": "Im6_BP120ow"
+        },
+        {
+         "text": "20sec Bottom Of Ring Dip Hold",
+         "name": "Bottom Of Ring Dip Hold",
+         "vid": "LyT2mNTB_Kg"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Dumbbell Floor Press",
+         "tempo": "3011",
+         "reps": "12",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "9vcKpv45aeE"
+        },
+        {
+         "code": "A2",
+         "name": "Half Kneeling DB Arnold Press",
+         "tempo": "2010",
+         "reps": "10/arm",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "FyR8ARTaGKI"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Feet Elevated KB Push Up",
+         "tempo": "2010",
+         "reps": "10-12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "kw3ht7nZbXs"
+        },
+        {
+         "code": "B2",
+         "name": "DB Shoulder Front Raise",
+         "tempo": "2011",
+         "reps": "12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "xagEKj2yDc8"
+        },
+        {
+         "code": "B3",
+         "name": "Tall Kneeling KB Crush Grip Overhead Tricep Extensions",
+         "tempo": "3010",
+         "reps": "12-15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "FDcuwRBmoP8"
+        }
+       ]
+      },
+      {
+       "label": "Push Conditioning",
+       "sub": "C) 3 Rounds - steady",
+       "items": [
+        {
+         "text": "5 Wall Walk",
+         "name": "Wall Walk",
+         "vid": "JsGNOjxsu9A"
+        },
+        {
+         "text": "15 Cal Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "10 Kettlebell Push Press (5/arm)",
+         "name": "Kettlebell Push Press",
+         "vid": "cK4fCJY2yvM"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": "flow",
+     "title": "Optional - Easy Aerobic Flow",
+     "blocks": [
+      {
+       "label": "Note",
+       "sub": "",
+       "items": [
+        {
+         "text": "Easy day: conversational pace, nose breathing if you can. Skip it if you feel beaten up."
+        }
+       ]
+      },
+      {
+       "label": "Easy Aerobic Flow",
+       "sub": "24min continuous - easy",
+       "items": [
+        {
+         "text": "5min Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "1min Bear Crawl (forward and back)",
+         "name": "Bear Crawl",
+         "vid": "yAQsNL4wnHE"
+        },
+        {
+         "text": "5min Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "1min Reverse Plank Bridge holds (20sec on / 10sec off)",
+         "name": "Reverse Plank Bridge",
+         "vid": "hW4cbpEaVG0"
+        },
+        {
+         "text": "5min easy run or brisk walk"
+        },
+        {
+         "text": "1min Dead Bug or Bird Dog",
+         "name": "Dead Bug",
+         "vid": "wCwn7-Z-XjE"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Pull - Back + Biceps",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Scap Pull Up",
+         "name": "Scap Pull Up",
+         "vid": "pE8PJsWEV7k"
+        },
+        {
+         "text": "20sec Strict Pull Up Isometric Hold Over Bar",
+         "name": "Strict Pull Up Isometric Hold Over Bar",
+         "vid": "PtxPHXIcHo0"
+        },
+        {
+         "text": "12 Band Pull Aparts",
+         "name": "Band Pull Aparts",
+         "vid": "MnDpmNYUjbc"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Supinated Grip Pull Up",
+         "tempo": "3010",
+         "reps": "6-10",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "nMngQ4nxUU0",
+         "note": "Band or jumping negatives if needed."
+        },
+        {
+         "code": "A2",
+         "name": "Dumbbell Bent Over Row",
+         "tempo": "2011",
+         "reps": "12",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "VP_f9V854og"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Archer Ring Row",
+         "tempo": "2011",
+         "reps": "6/arm",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "4g8CM9pV4X4"
+        },
+        {
+         "code": "B2",
+         "name": "Banded Face Pulls",
+         "tempo": "2011",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "5jgKj8ColLg"
+        },
+        {
+         "code": "B3",
+         "name": "KB Hammer Grip Bicep Curls",
+         "tempo": "3010",
+         "reps": "10-12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "QxVpZfj5iTI"
+        }
+       ]
+      },
+      {
+       "label": "Pull Circuit",
+       "sub": "C) For Time - 4 Rounds",
+       "items": [
+        {
+         "text": "8 Gorilla Burpee",
+         "name": "Gorilla Burpee",
+         "vid": "tEHRQB5g35Y"
+        },
+        {
+         "text": "10 Ring Row",
+         "name": "Ring Row",
+         "vid": "EN6ubEkzMC0"
+        },
+        {
+         "text": "30 Double Unders (or 60 Single Unders)",
+         "name": "Double Unders",
+         "vid": "3SN4_WAVwL8"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Posterior Chain + Full Body",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10/side Bridge Psoas March",
+         "name": "Bridge Psoas March",
+         "vid": "uN1ecndDsCk"
+        },
+        {
+         "text": "8 Seated Good Morning",
+         "name": "Seated Good Morning",
+         "vid": "ZPeJ0s8X6Gs"
+        },
+        {
+         "text": "5 Broad Jump",
+         "name": "Broad Jump",
+         "vid": "vPQv1gmrfUo"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 3 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Banded Deadlift",
+         "tempo": "3011",
+         "reps": "12",
+         "rest": "60sec",
+         "sets": "3",
+         "vid": "hKvgiDo7htM",
+         "note": "No bands: conventional deadlift with a 1sec pause just off the floor."
+        },
+        {
+         "code": "A2",
+         "name": "Dual Russian Kettlebell Swings",
+         "tempo": "X",
+         "reps": "12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "fOPqk1FA4HU"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Single Leg Foot Elevated Glute Bridge",
+         "tempo": "2011",
+         "reps": "12/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "q4tbcohWf4k"
+        },
+        {
+         "code": "B2",
+         "name": "Split Stance Crossbody KB RDL",
+         "tempo": "3010",
+         "reps": "10/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "YFG7J4TZsl0"
+        },
+        {
+         "code": "B3",
+         "name": "Superman Rocks",
+         "tempo": "-",
+         "reps": "20",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "wG1L4otl1M8"
+        }
+       ]
+      },
+      {
+       "label": "Full Body Conditioning",
+       "sub": "C) 12min AMRAP",
+       "items": [
+        {
+         "text": "10 Kettlebell Snatch From Floor (5/arm)",
+         "name": "Kettlebell Snatch From Floor",
+         "vid": "qxHG6E00rF8"
+        },
+        {
+         "text": "8 Box Jump Overs",
+         "name": "Box Jump Overs",
+         "vid": "f6AR27I-DwU"
+        },
+        {
+         "text": "15 Sit Ups",
+         "name": "Sit Ups",
+         "vid": "8pBsG75at6Q"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "note": "Week 7: 4 x 10, add a little load.",
+   "days": [
+    {
+     "day": 1,
+     "title": "Legs - Squat + Single Leg",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Cyclist Air Squat",
+         "name": "Cyclist Air Squat",
+         "vid": "7GBBdCDWpn4"
+        },
+        {
+         "text": "8/leg Cobra Split Squat",
+         "name": "Cobra Split Squat",
+         "vid": "LsSZVQn5z5E"
+        },
+        {
+         "text": "20sec L Sit on Parallettes (tuck if needed)",
+         "name": "L Sit on Parallettes",
+         "vid": "lLu9U0G7Ogw"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 4 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Goblet Cyclist Rear Foot Elevated Split Squat",
+         "tempo": "3010",
+         "reps": "8/leg",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "M9AJ8e8jK8U"
+        },
+        {
+         "code": "A2",
+         "name": "L Sit on Parallettes",
+         "tempo": "-",
+         "reps": "20sec",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "lLu9U0G7Ogw"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Barbell Front Rack Walking Lunge",
+         "tempo": "2010",
+         "reps": "12 steps",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "uKUMTh0mYW4"
+        },
+        {
+         "code": "B2",
+         "name": "Shrimp Squat",
+         "tempo": "3010",
+         "reps": "5/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "S9_oGOcdppI",
+         "note": "Hold a rack or post for balance."
+        },
+        {
+         "code": "B3",
+         "name": "Banded Sissy Squats",
+         "tempo": "3010",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "bfmQ2JzzVsI"
+        }
+       ]
+      },
+      {
+       "label": "Leg Intervals",
+       "sub": "C) Every 2min x 6",
+       "items": [
+        {
+         "text": "15/12 Cal Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "10 Alternating Deficit Jump Lunge",
+         "name": "Alternating Deficit Jump Lunge",
+         "vid": "VUVeH9hpDRk"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "20 Bicycle Crunch",
+         "name": "Bicycle Crunch",
+         "vid": "_vWNnODwF5w"
+        },
+        {
+         "text": "30sec RKC Plank",
+         "name": "RKC Plank",
+         "vid": "64SmhiH0Xxg"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Push - Chest, Shoulders, Triceps",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Yoga Push Up",
+         "name": "Yoga Push Up",
+         "vid": "_AOxb-7uwEE"
+        },
+        {
+         "text": "10 Ring Face Pull",
+         "name": "Ring Face Pull",
+         "vid": "Im6_BP120ow"
+        },
+        {
+         "text": "20sec Bottom Of Ring Dip Hold",
+         "name": "Bottom Of Ring Dip Hold",
+         "vid": "LyT2mNTB_Kg"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 4 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Dumbbell Floor Press",
+         "tempo": "3011",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "9vcKpv45aeE"
+        },
+        {
+         "code": "A2",
+         "name": "Half Kneeling DB Arnold Press",
+         "tempo": "2010",
+         "reps": "8/arm",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "FyR8ARTaGKI"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Feet Elevated KB Push Up",
+         "tempo": "2010",
+         "reps": "10-12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "kw3ht7nZbXs"
+        },
+        {
+         "code": "B2",
+         "name": "DB Shoulder Front Raise",
+         "tempo": "2011",
+         "reps": "12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "xagEKj2yDc8"
+        },
+        {
+         "code": "B3",
+         "name": "Tall Kneeling KB Crush Grip Overhead Tricep Extensions",
+         "tempo": "3010",
+         "reps": "12-15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "FDcuwRBmoP8"
+        }
+       ]
+      },
+      {
+       "label": "Push Conditioning",
+       "sub": "C) 4 Rounds - steady",
+       "items": [
+        {
+         "text": "5 Wall Walk",
+         "name": "Wall Walk",
+         "vid": "JsGNOjxsu9A"
+        },
+        {
+         "text": "15 Cal Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "10 Kettlebell Push Press (5/arm)",
+         "name": "Kettlebell Push Press",
+         "vid": "cK4fCJY2yvM"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": "flow",
+     "title": "Optional - Easy Aerobic Flow",
+     "blocks": [
+      {
+       "label": "Note",
+       "sub": "",
+       "items": [
+        {
+         "text": "Easy day: conversational pace, nose breathing if you can. Skip it if you feel beaten up."
+        }
+       ]
+      },
+      {
+       "label": "Easy Aerobic Flow",
+       "sub": "30min continuous - easy",
+       "items": [
+        {
+         "text": "5min Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "1min Bear Crawl (forward and back)",
+         "name": "Bear Crawl",
+         "vid": "yAQsNL4wnHE"
+        },
+        {
+         "text": "5min Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "1min Reverse Plank Bridge holds (20sec on / 10sec off)",
+         "name": "Reverse Plank Bridge",
+         "vid": "hW4cbpEaVG0"
+        },
+        {
+         "text": "5min easy run or brisk walk"
+        },
+        {
+         "text": "1min Dead Bug or Bird Dog",
+         "name": "Dead Bug",
+         "vid": "wCwn7-Z-XjE"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Pull - Back + Biceps",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Scap Pull Up",
+         "name": "Scap Pull Up",
+         "vid": "pE8PJsWEV7k"
+        },
+        {
+         "text": "20sec Strict Pull Up Isometric Hold Over Bar",
+         "name": "Strict Pull Up Isometric Hold Over Bar",
+         "vid": "PtxPHXIcHo0"
+        },
+        {
+         "text": "12 Band Pull Aparts",
+         "name": "Band Pull Aparts",
+         "vid": "MnDpmNYUjbc"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 4 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Supinated Grip Pull Up",
+         "tempo": "3010",
+         "reps": "5-8",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "nMngQ4nxUU0",
+         "note": "Band or jumping negatives if needed."
+        },
+        {
+         "code": "A2",
+         "name": "Dumbbell Bent Over Row",
+         "tempo": "2011",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "VP_f9V854og"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Archer Ring Row",
+         "tempo": "2011",
+         "reps": "6/arm",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "4g8CM9pV4X4"
+        },
+        {
+         "code": "B2",
+         "name": "Banded Face Pulls",
+         "tempo": "2011",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "5jgKj8ColLg"
+        },
+        {
+         "code": "B3",
+         "name": "KB Hammer Grip Bicep Curls",
+         "tempo": "3010",
+         "reps": "10-12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "QxVpZfj5iTI"
+        }
+       ]
+      },
+      {
+       "label": "Pull Circuit",
+       "sub": "C) For Time - 5 Rounds",
+       "items": [
+        {
+         "text": "8 Gorilla Burpee",
+         "name": "Gorilla Burpee",
+         "vid": "tEHRQB5g35Y"
+        },
+        {
+         "text": "10 Ring Row",
+         "name": "Ring Row",
+         "vid": "EN6ubEkzMC0"
+        },
+        {
+         "text": "30 Double Unders (or 60 Single Unders)",
+         "name": "Double Unders",
+         "vid": "3SN4_WAVwL8"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Posterior Chain + Full Body",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10/side Bridge Psoas March",
+         "name": "Bridge Psoas March",
+         "vid": "uN1ecndDsCk"
+        },
+        {
+         "text": "8 Seated Good Morning",
+         "name": "Seated Good Morning",
+         "vid": "ZPeJ0s8X6Gs"
+        },
+        {
+         "text": "5 Broad Jump",
+         "name": "Broad Jump",
+         "vid": "vPQv1gmrfUo"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 4 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Banded Deadlift",
+         "tempo": "3011",
+         "reps": "10",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "hKvgiDo7htM",
+         "note": "No bands: conventional deadlift with a 1sec pause just off the floor."
+        },
+        {
+         "code": "A2",
+         "name": "Dual Russian Kettlebell Swings",
+         "tempo": "X",
+         "reps": "12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "fOPqk1FA4HU"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Single Leg Foot Elevated Glute Bridge",
+         "tempo": "2011",
+         "reps": "12/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "q4tbcohWf4k"
+        },
+        {
+         "code": "B2",
+         "name": "Split Stance Crossbody KB RDL",
+         "tempo": "3010",
+         "reps": "10/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "YFG7J4TZsl0"
+        },
+        {
+         "code": "B3",
+         "name": "Superman Rocks",
+         "tempo": "-",
+         "reps": "20",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "wG1L4otl1M8"
+        }
+       ]
+      },
+      {
+       "label": "Full Body Conditioning",
+       "sub": "C) 14min AMRAP",
+       "items": [
+        {
+         "text": "10 Kettlebell Snatch From Floor (5/arm)",
+         "name": "Kettlebell Snatch From Floor",
+         "vid": "qxHG6E00rF8"
+        },
+        {
+         "text": "8 Box Jump Overs",
+         "name": "Box Jump Overs",
+         "vid": "f6AR27I-DwU"
+        },
+        {
+         "text": "15 Sit Ups",
+         "name": "Sit Ups",
+         "vid": "8pBsG75at6Q"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "note": "Week 8: 4 x 12. Then deload for a week.",
+   "days": [
+    {
+     "day": 1,
+     "title": "Legs - Squat + Single Leg",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Cyclist Air Squat",
+         "name": "Cyclist Air Squat",
+         "vid": "7GBBdCDWpn4"
+        },
+        {
+         "text": "8/leg Cobra Split Squat",
+         "name": "Cobra Split Squat",
+         "vid": "LsSZVQn5z5E"
+        },
+        {
+         "text": "20sec L Sit on Parallettes (tuck if needed)",
+         "name": "L Sit on Parallettes",
+         "vid": "lLu9U0G7Ogw"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 4 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Goblet Cyclist Rear Foot Elevated Split Squat",
+         "tempo": "3010",
+         "reps": "10/leg",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "M9AJ8e8jK8U"
+        },
+        {
+         "code": "A2",
+         "name": "L Sit on Parallettes",
+         "tempo": "-",
+         "reps": "20sec",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "lLu9U0G7Ogw"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Barbell Front Rack Walking Lunge",
+         "tempo": "2010",
+         "reps": "12 steps",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "uKUMTh0mYW4"
+        },
+        {
+         "code": "B2",
+         "name": "Shrimp Squat",
+         "tempo": "3010",
+         "reps": "5/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "S9_oGOcdppI",
+         "note": "Hold a rack or post for balance."
+        },
+        {
+         "code": "B3",
+         "name": "Banded Sissy Squats",
+         "tempo": "3010",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "bfmQ2JzzVsI"
+        }
+       ]
+      },
+      {
+       "label": "Leg Intervals",
+       "sub": "C) Every 2min x 6",
+       "items": [
+        {
+         "text": "15/12 Cal Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "10 Alternating Deficit Jump Lunge",
+         "name": "Alternating Deficit Jump Lunge",
+         "vid": "VUVeH9hpDRk"
+        }
+       ]
+      },
+      {
+       "label": "Core Finisher",
+       "sub": "D) 2 Sets",
+       "items": [
+        {
+         "text": "20 Bicycle Crunch",
+         "name": "Bicycle Crunch",
+         "vid": "_vWNnODwF5w"
+        },
+        {
+         "text": "30sec RKC Plank",
+         "name": "RKC Plank",
+         "vid": "64SmhiH0Xxg"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "title": "Push - Chest, Shoulders, Triceps",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Yoga Push Up",
+         "name": "Yoga Push Up",
+         "vid": "_AOxb-7uwEE"
+        },
+        {
+         "text": "10 Ring Face Pull",
+         "name": "Ring Face Pull",
+         "vid": "Im6_BP120ow"
+        },
+        {
+         "text": "20sec Bottom Of Ring Dip Hold",
+         "name": "Bottom Of Ring Dip Hold",
+         "vid": "LyT2mNTB_Kg"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 4 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Dumbbell Floor Press",
+         "tempo": "3011",
+         "reps": "12",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "9vcKpv45aeE"
+        },
+        {
+         "code": "A2",
+         "name": "Half Kneeling DB Arnold Press",
+         "tempo": "2010",
+         "reps": "10/arm",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "FyR8ARTaGKI"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Feet Elevated KB Push Up",
+         "tempo": "2010",
+         "reps": "10-12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "kw3ht7nZbXs"
+        },
+        {
+         "code": "B2",
+         "name": "DB Shoulder Front Raise",
+         "tempo": "2011",
+         "reps": "12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "xagEKj2yDc8"
+        },
+        {
+         "code": "B3",
+         "name": "Tall Kneeling KB Crush Grip Overhead Tricep Extensions",
+         "tempo": "3010",
+         "reps": "12-15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "FDcuwRBmoP8"
+        }
+       ]
+      },
+      {
+       "label": "Push Conditioning",
+       "sub": "C) 4 Rounds - steady",
+       "items": [
+        {
+         "text": "5 Wall Walk",
+         "name": "Wall Walk",
+         "vid": "JsGNOjxsu9A"
+        },
+        {
+         "text": "15 Cal Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "10 Kettlebell Push Press (5/arm)",
+         "name": "Kettlebell Push Press",
+         "vid": "cK4fCJY2yvM"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": "flow",
+     "title": "Optional - Easy Aerobic Flow",
+     "blocks": [
+      {
+       "label": "Note",
+       "sub": "",
+       "items": [
+        {
+         "text": "Easy day: conversational pace, nose breathing if you can. Skip it if you feel beaten up."
+        }
+       ]
+      },
+      {
+       "label": "Easy Aerobic Flow",
+       "sub": "30min continuous - easy",
+       "items": [
+        {
+         "text": "5min Rowing",
+         "name": "Rowing",
+         "vid": "gON7XC5WxCM"
+        },
+        {
+         "text": "1min Bear Crawl (forward and back)",
+         "name": "Bear Crawl",
+         "vid": "yAQsNL4wnHE"
+        },
+        {
+         "text": "5min Assault Bike",
+         "name": "Assault Bike",
+         "vid": "YAehhfg3DD8"
+        },
+        {
+         "text": "1min Reverse Plank Bridge holds (20sec on / 10sec off)",
+         "name": "Reverse Plank Bridge",
+         "vid": "hW4cbpEaVG0"
+        },
+        {
+         "text": "5min easy run or brisk walk"
+        },
+        {
+         "text": "1min Dead Bug or Bird Dog",
+         "name": "Dead Bug",
+         "vid": "wCwn7-Z-XjE"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "title": "Pull - Back + Biceps",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10 Scap Pull Up",
+         "name": "Scap Pull Up",
+         "vid": "pE8PJsWEV7k"
+        },
+        {
+         "text": "20sec Strict Pull Up Isometric Hold Over Bar",
+         "name": "Strict Pull Up Isometric Hold Over Bar",
+         "vid": "PtxPHXIcHo0"
+        },
+        {
+         "text": "12 Band Pull Aparts",
+         "name": "Band Pull Aparts",
+         "vid": "MnDpmNYUjbc"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 4 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Supinated Grip Pull Up",
+         "tempo": "3010",
+         "reps": "6-10",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "nMngQ4nxUU0",
+         "note": "Band or jumping negatives if needed."
+        },
+        {
+         "code": "A2",
+         "name": "Dumbbell Bent Over Row",
+         "tempo": "2011",
+         "reps": "12",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "VP_f9V854og"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Archer Ring Row",
+         "tempo": "2011",
+         "reps": "6/arm",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "4g8CM9pV4X4"
+        },
+        {
+         "code": "B2",
+         "name": "Banded Face Pulls",
+         "tempo": "2011",
+         "reps": "15",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "5jgKj8ColLg"
+        },
+        {
+         "code": "B3",
+         "name": "KB Hammer Grip Bicep Curls",
+         "tempo": "3010",
+         "reps": "10-12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "QxVpZfj5iTI"
+        }
+       ]
+      },
+      {
+       "label": "Pull Circuit",
+       "sub": "C) For Time - 5 Rounds",
+       "items": [
+        {
+         "text": "8 Gorilla Burpee",
+         "name": "Gorilla Burpee",
+         "vid": "tEHRQB5g35Y"
+        },
+        {
+         "text": "10 Ring Row",
+         "name": "Ring Row",
+         "vid": "EN6ubEkzMC0"
+        },
+        {
+         "text": "30 Double Unders (or 60 Single Unders)",
+         "name": "Double Unders",
+         "vid": "3SN4_WAVwL8"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "title": "Posterior Chain + Full Body",
+     "blocks": [
+      {
+       "label": "Warmup",
+       "sub": "2 Rounds",
+       "items": [
+        {
+         "text": "10/side Bridge Psoas March",
+         "name": "Bridge Psoas March",
+         "vid": "uN1ecndDsCk"
+        },
+        {
+         "text": "8 Seated Good Morning",
+         "name": "Seated Good Morning",
+         "vid": "ZPeJ0s8X6Gs"
+        },
+        {
+         "text": "5 Broad Jump",
+         "name": "Broad Jump",
+         "vid": "vPQv1gmrfUo"
+        }
+       ]
+      },
+      {
+       "label": "Main Superset",
+       "sub": "Strength - 4 sets, rest 60sec",
+       "items": [
+        {
+         "code": "A1",
+         "name": "Banded Deadlift",
+         "tempo": "3011",
+         "reps": "12",
+         "rest": "60sec",
+         "sets": "4",
+         "vid": "hKvgiDo7htM",
+         "note": "No bands: conventional deadlift with a 1sec pause just off the floor."
+        },
+        {
+         "code": "A2",
+         "name": "Dual Russian Kettlebell Swings",
+         "tempo": "X",
+         "reps": "12",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "fOPqk1FA4HU"
+        }
+       ]
+      },
+      {
+       "label": "Tri-Set",
+       "sub": "Pump + control - 3 sets, rest 45sec",
+       "items": [
+        {
+         "code": "B1",
+         "name": "Single Leg Foot Elevated Glute Bridge",
+         "tempo": "2011",
+         "reps": "12/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "q4tbcohWf4k"
+        },
+        {
+         "code": "B2",
+         "name": "Split Stance Crossbody KB RDL",
+         "tempo": "3010",
+         "reps": "10/leg",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "YFG7J4TZsl0"
+        },
+        {
+         "code": "B3",
+         "name": "Superman Rocks",
+         "tempo": "-",
+         "reps": "20",
+         "rest": "45sec",
+         "sets": "3",
+         "vid": "wG1L4otl1M8"
+        }
+       ]
+      },
+      {
+       "label": "Full Body Conditioning",
+       "sub": "C) 14min AMRAP",
+       "items": [
+        {
+         "text": "10 Kettlebell Snatch From Floor (5/arm)",
+         "name": "Kettlebell Snatch From Floor",
+         "vid": "qxHG6E00rF8"
+        },
+        {
+         "text": "8 Box Jump Overs",
+         "name": "Box Jump Overs",
+         "vid": "f6AR27I-DwU"
+        },
+        {
+         "text": "15 Sit Ups",
+         "name": "Sit Ups",
+         "vid": "8pBsG75at6Q"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

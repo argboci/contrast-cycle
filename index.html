@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Contrast Cycle</title>
-<meta name="description" content="Free 8-week functional bodybuilding program with tempo supersets, workout timer, movement demos and a training log.">
+<meta name="description" content="Three free 8-week functional bodybuilding cycles with tempo supersets, workout timer, movement demos and a training log.">
 <meta name="theme-color" content="#00274A">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png" type="image/png">
@@ -230,9 +230,12 @@ details.intro ul{margin:10px 0 0;padding-left:18px;display:grid;gap:6px;font-siz
 
 <script>
 const PROGS = [
-  {id:'fbc3', file:'fbc3.json', short:'Contrast', name:'Contrast Cycle', blurb:'8 weeks, 5 training days a week. Two 4-week blocks with different exercises: tempo supersets, conditioning and finishers.', isNew:true},
+  {id:'fbc3', file:'fbc3.json', short:'Contrast', name:'Contrast Cycle', blurb:'8 weeks, 5 training days. Two 4-week blocks with different exercises: tempo supersets, conditioning and finishers.'},
+  {id:'found', file:'found.json', short:'Foundation', name:'Foundation Cycle', blurb:'Start here. Push / pull / legs + posterior chain, 10-12 reps, double progression, 4 days a week.', isNew:true},
+  {id:'power', file:'power.json', short:'Power', name:'Power Cycle', blurb:'Strength and power. Heavy + explosive contrast pairs in 5-4-3 waves, gymnastics, sprints, 4 days a week.', isNew:true},
 ];
 const cache = {};
+const progTag = x => ({fbc1:'FBC 1', fbc2:'FBC 2', fbc3:'Contrast', found:'Foundation', power:'Power'})[x] || x;
 let logs = {};            // docId -> data
 let db = null, dbState = 'pending';
 let draft = null, draftId = null, dirty = false, saveTimer = null, saving = Promise.resolve();
@@ -252,7 +255,7 @@ async function load(id){
 /* ---------- routing: #home | #fbc3 | #fbc3-w2 | #fbc3-w2-d4 | #fbc3-w2-dflow ---------- */
 function parseHash(){
   const h = (location.hash || '').slice(1);
-  const m = h.match(/^(fbc[123])(?:-w(\d))?(?:-d(\w+))?$/);
+  const m = h.match(/^(fbc[123]|found|power)(?:-w(\d))?(?:-d(\w+))?$/);
   if (h === 'library') return {view:'library'};
   if (!m) return {view:'home'};
   return {view: m[3] ? 'day' : 'prog', prog:m[1], week: m[2] ? +m[2] : null, day: m[3] || null};
@@ -330,17 +333,17 @@ function flushSave(){
 
 /* ---------- views ---------- */
 function renderHome(){
-  setHeader('8-week training program', 'Contrast Cycle', false);
+  setHeader('8-week training cycles', 'Contrast Cycle', false);
   const last = lsGet('last');
   let cont = '';
   if (last){
-    const m = last.match(/^(fbc[123])-w(\d)-d(\w+)$/);
+    const m = last.match(/^(fbc[123]|found|power)-w(\d)-d(\w+)$/);
     if (m && PROGS.find(x => x.id === m[1])){ const p = PROGS.find(x => x.id === m[1]);
-      cont = `<button class="continue" data-go="${esc(last)}"><span><span class="eyebrow">Continue</span><br><b>${esc(p.short)} · Week ${m[2]} · ${m[3]==='flow'?'Pump Flow':'Day '+m[3]}</b></span><span aria-hidden="true">&#8594;</span></button>`; }
+      cont = `<button class="continue" data-go="${esc(last)}"><span><span class="eyebrow">Continue</span><br><b>${esc(p.short)} · Week ${m[2]} · ${m[3]==='flow'?'Easy Day':'Day '+m[3]}</b></span><span aria-hidden="true">&#8594;</span></button>`; }
   }
   $('#view').innerHTML = `
     ${cont}
-    <h2>Program</h2>
+    <h2>Programs</h2>
     <div class="progs">
       ${PROGS.slice().reverse().map(p => `
         <button class="prog${p.isNew?' new':''}" data-go="${p.id}">
@@ -429,7 +432,7 @@ function renderDay(id, p, week, day){
   const d = wk.days.find(x => dayKey(x.day) === day); if (!d) return go(id + '-w' + week);
   const did = docId(id, week, d.day), curKey = orderKey(id, week, d.day);
   lsSet('last', did); lsSet('wk-' + id, String(week));
-  setHeader(`${meta.short} · Week ${week}`, d.day === 'flow' ? 'Pump Flow' : 'Day ' + d.day, true);
+  setHeader(`${meta.short} · Week ${week}`, d.day === 'flow' ? 'Easy Day' : 'Day ' + d.day, true);
   draftId = did; dirty = false;
   draft = logs[did] ? structuredClone(logs[did]) : {prog:id, week, day:dayKey(d.day), key:curKey, items:{}, note:''};
   draft.key = curKey;
@@ -803,7 +806,7 @@ function role(e){
 }
 function altRow(e, label){
   return `<div class="libitem"><span style="min-width:0">${label ? `<span class="eyebrow" style="display:block;margin-bottom:3px">${esc(label)}</span>` : ''}<a class="mv" href="${yt(e.v)}" target="_blank" rel="noopener">${esc(e.n)}</a></span>
-    <span class="tags">${e.e.slice(0, 2).map(x => `<span class="tg">${esc(x === 'Bodyweight' ? 'No kit' : x)}</span>`).join('')}${e.p.map(x => `<span class="tg p">${'In program'}</span>`).join('')}</span></div>`;
+    <span class="tags">${e.e.slice(0, 2).map(x => `<span class="tg">${esc(x === 'Bodyweight' ? 'No kit' : x)}</span>`).join('')}${e.p.map(x => `<span class="tg p">${progTag(x)}</span>`).join('')}</span></div>`;
 }
 function drawAlt(){
   const {list, best, full} = altCur;
@@ -843,7 +846,7 @@ async function renderLibrary(){
       <div class="chips" id="libcats">${['All', ...CATS].map(c => `<button class="chip${c === libCat ? ' on' : ''}" data-cat="${esc(c)}">${esc(c)}${c !== 'All' ? ` <small style="font-weight:500;opacity:.7">&nbsp;${counts[c] || 0}</small>` : ''}</button>`).join('')}</div>
     </div>
     <div id="liblist" class="wrap"></div>
-    <p class="legend">Navy tag: used in the Contrast Cycle. Light tag: playlist on the Marcus Filly / Functional Bodybuilding YouTube channels.</p>`;
+    <p class="legend">Navy tags: used in that cycle. Light tag: playlist on the Marcus Filly / Functional Bodybuilding YouTube channels.</p>`;
   drawLib();
 }
 function drawLib(){
@@ -854,7 +857,7 @@ function drawLib(){
   $('#liblist').innerHTML = groups.length ? groups.map(([c, list]) => `
     <section class="libgrp"><h3>${esc(c)} <span>${list.length}</span></h3>
       ${list.slice(0, 400).map(e => `<div class="libitem"><a class="mv" href="${yt(e.v)}" target="_blank" rel="noopener">${esc(e.n)}</a>
-        <span class="tags">${e.p.map(x => `<span class="tg p">${'In program'}</span>`).join('')}${!e.p.length && e.s[0] ? `<span class="tg">${esc(e.s[0])}</span>` : ''}</span></div>`).join('')}
+        <span class="tags">${e.p.map(x => `<span class="tg p">${progTag(x)}</span>`).join('')}${!e.p.length && e.s[0] ? `<span class="tg">${esc(e.s[0])}</span>` : ''}</span></div>`).join('')}
     </section>`).join('') : '<p class="empty">No movement matches. Try fewer words.</p>';
 }
 document.addEventListener('input', e => { if (e.target.id === 'libq'){ lsSet('libq', e.target.value); drawLib(); } });
